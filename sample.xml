@@ -1,0 +1,2603 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <RowID>1</RowID>
+    <Order ID>MX-2014-116267</Order ID>
+    <Order Date>31-12-2014</Order Date>
+    <Ship Date>03-01-2015</Ship Date>
+    <Ship Mode>Second Class</Ship Mode>
+    <Customer ID>EB-13975</Customer ID>
+    <Customer Name>Erica Bern</Customer Name>
+    <Segment>Corporate</Segment>
+    <City>São Paulo</City>
+    <State>São Paulo</State>
+    <Country>Brazil</Country>
+    <Postal Code></Postal Code>
+    <Market>LATAM</Market>
+    <Region>South</Region>
+    <Product ID>TEC-CO-10000137</Product ID>
+    <Category>Technology</Category>
+    <Sub-Category>Copiers</Sub-Category>
+    <Product Name>Canon Wireless Fax, Color</Product Name>
+    <Sales>1264.466</Sales>
+    <Quantity>5</Quantity>
+    <Discount>0.002</Discount>
+    <Profit>301.466</Profit>
+    <Shipping Cost>253.25</Shipping Cost>
+    <Order Priority>High</Order Priority>
+  </row>
+  <row>
+    <RowID>2</RowID>
+    <Order ID>MX-2014-116267</Order ID>
+    <Order Date>31-12-2014</Order Date>
+    <Ship Date>03-01-2015</Ship Date>
+    <Ship Mode>Second Class</Ship Mode>
+    <Customer ID>EB-13975</Customer ID>
+    <Customer Name>Erica Bern</Customer Name>
+    <Segment>Corporate</Segment>
+    <City>São Paulo</City>
+    <State>São Paulo</State>
+    <Country>Brazil</Country>
+    <Postal Code></Postal Code>
+    <Market>LATAM</Market>
+    <Region>South</Region>
+    <Product ID>OFF-EN-10004560</Product ID>
+    <Category>Office Supplies</Category>
+    <Sub-Category>Envelopes</Sub-Category>
+    <Product Name>Cameo Business Envelopes, Security-Tint</Product Name>
+    <Sales>22.6</Sales>
+    <Quantity>2</Quantity>
+    <Discount>0</Discount>
+    <Profit>7.44</Profit>
+    <Shipping Cost>4.16</Shipping Cost>
+    <Order Priority>High</Order Priority>
+  </row>
+  <row>
+    <RowID>3</RowID>
+    <Order ID>MX-2014-116267</Order ID>
+    <Order Date>31-12-2014</Order Date>
+    <Ship Date>03-01-2015</Ship Date>
+    <Ship Mode>Second Class</Ship Mode>
+    <Customer ID>EB-13975</Customer ID>
+    <Customer Name>Erica Bern</Customer Name>
+    <Segment>Corporate</Segment>
+    <City>São Paulo</City>
+    <State>São Paulo</State>
+    <Country>Brazil</Country>
+    <Postal Code></Postal Code>
+    <Market>LATAM</Market>
+    <Region>South</Region>
+    <Product ID>OFF-BI-10003653</Product ID>
+    <Category>Office Supplies</Category>
+    <Sub-Category>Binders</Sub-Category>
+    <Product Name>Avery 3-Hole Punch, Durable</Product Name>
+    <Sales>58.74</Sales>
+    <Quantity>3</Quantity>
+    <Discount>0</Discount>
+    <Profit>16.44</Profit>
+    <Shipping Cost>6.34</Shipping Cost>
+    <Order Priority>High</Order Priority>
+  </row>
+  <row>
+    <RowID>4</RowID>
+    <Order ID>MX-2014-116267</Order ID>
+    <Order Date>31-12-2014</Order Date>
+    <Ship Date>03-01-2015</Ship Date>
+    <Ship Mode>Second Class</Ship Mode>
+    <Customer ID>EB-13975</Customer ID>
+    <Customer Name>Erica Bern</Customer Name>
+    <Segment>Corporate</Segment>
+    <City>São Paulo</City>
+    <State>São Paulo</State>
+    <Country>Brazil</Country>
+    <Postal Code></Postal Code>
+    <Market>LATAM</Market>
+    <Region>South</Region>
+    <Product ID>TEC-AC-10003454</Product ID>
+    <Category>Technology</Category>
+    <Sub-Category>Accessories</Sub-Category>
+    <Product Name>Enermax Memory Card, Erganomic</Product Name>
+    <Sales>74.8</Sales>
+    <Quantity>1</Quantity>
+    <Discount>0</Discount>
+    <Profit>28.42</Profit>
+    <Shipping Cost>7.31</Shipping Cost>
+    <Order Priority>High</Order Priority>
+  </row>
+  <row>
+    <RowID>5</RowID>
+    <Order ID>MX-2014-116267</Order ID>
+    <Order Date>31-12-2014</Order Date>
+    <Ship Date>03-01-2015</Ship Date>
+    <Ship Mode>Second Class</Ship Mode>
+    <Customer ID>EB-13975</Customer ID>
+    <Customer Name>Erica Bern</Customer Name>
+    <Segment>Corporate</Segment>
+    <City>São Paulo</City>
+    <State>São Paulo</State>
+    <Country>Brazil</Country>
+    <Postal Code></Postal Code>
+    <Market>LATAM</Market>
+    <Region>South</Region>
+    <Product ID>FUR-CH-10004844</Product ID>
+    <Category>Furniture</Category>
+    <Sub-Category>Chairs</Sub-Category>
+    <Product Name>Novimex Swivel Stool, Adjustable</Product Name>
+    <Sales>333.9</Sales>
+    <Quantity>3</Quantity>
+    <Discount>0</Discount>
+    <Profit>0</Profit>
+    <Shipping Cost>51.53</Shipping Cost>
+    <Order Priority>High</Order Priority>
+  </row>
+  <row>
+    <RowID>6</RowID>
+    <Order ID>MX-2014-108574</Order ID>
+    <Order Date>31-12-2014</Order Date>
+    <Ship Date>04-01-2015</Ship Date>
+    <Ship Mode>Standard Class</Ship Mode>
+    <Customer ID>JB-16045</Customer ID>
+    <Customer Name>Julia Barnett</Customer Name>
+    <Segment>Home Office</Segment>
+    <City>Reynosa</City>
+    <State>Tamaulipas</State>
+    <Country>Mexico</Country>
+    <Postal Code></Postal Code>
+    <Market>LATAM</Market>
+    <Region>North</Region>
+    <Product ID>OFF-LA-10004969</Product ID>
+    <Category>Office Supplies</Category>
+    <Sub-Category>Labels</Sub-Category>
+    <Product Name>Novimex Legal Exhibit Labels, Adjustable</Product Name>
+    <Sales>16.74</Sales>
+    <Quantity>3</Quantity>
+    <Discount>0</Discount>
+    <Profit>0.66</Profit>
+    <Shipping Cost>1.32</Shipping Cost>
+    <Order Priority>Medium</Order Priority>
+  </row>
+  <row>
+    <RowID>7</RowID>
+    <Order ID>MX-2014-122511</Order ID>
+    <Order Date>31-12-2014</Order Date>
+    <Ship Date>05-01-2015</Ship Date>
+    <Ship Mode>Standard Class</Ship Mode>
+    <Customer ID>RR-19525</Customer ID>
+    <Customer Name>Rick Reed</Customer Name>
+    <Segment>Corporate</Segment>
+    <City>Santo Domingo</City>
+    <State>Santo Domingo</State>
+    <Country>Dominican Republic</Country>
+    <Postal Code></Postal Code>
+    <Market>LATAM</Market>
+    <Region>Caribbean</Region>
+    <Product ID>TEC-AC-10003857</Product ID>
+    <Category>Technology</Category>
+    <Sub-Category>Accessories</Sub-Category>
+    <Product Name>Memorex Keyboard, Programmable</Product Name>
+    <Sales>155.392</Sales>
+    <Quantity>4</Quantity>
+    <Discount>0.2</Discount>
+    <Profit>40.752</Profit>
+    <Shipping Cost>12.75</Shipping Cost>
+    <Order Priority>Medium</Order Priority>
+  </row>
+  <row>
+    <RowID>8</RowID>
+    <Order ID>MX-2014-168851</Order ID>
+    <Order Date>31-12-2014</Order Date>
+    <Ship Date>02-01-2015</Ship Date>
+    <Ship Mode>Second Class</Ship Mode>
+    <Customer ID>SC-20260</Customer ID>
+    <Customer Name>Scott Cohen</Customer Name>
+    <Segment>Corporate</Segment>
+    <City>Durango</City>
+    <State>Durango</State>
+    <Country>Mexico</Country>
+    <Postal Code></Postal Code>
+    <Market>LATAM</Market>
+    <Region>North</Region>
+    <Product ID>OFF-LA-10004094</Product ID>
+    <Category>Office Supplies</Category>
+    <Sub-Category>Labels</Sub-Category>
+    <Product Name>Avery Removable Labels, 5000 Label Set</Product Name>
+    <Sales>22.26</Sales>
+    <Quantity>3</Quantity>
+    <Discount>0</Discount>
+    <Profit>3.96</Profit>
+    <Shipping Cost>2.27</Shipping Cost>
+    <Order Priority>High</Order Priority>
+  </row>
+  <row>
+    <RowID>9</RowID>
+    <Order ID>MX-2014-114783</Order ID>
+    <Order Date>31-12-2014</Order Date>
+    <Ship Date>06-01-2015</Ship Date>
+    <Ship Mode>Standard Class</Ship Mode>
+    <Customer ID>TD-20995</Customer ID>
+    <Customer Name>Tamara Dahlen</Customer Name>
+    <Segment>Consumer</Segment>
+    <City>Juárez</City>
+    <State>Chihuahua</State>
+    <Country>Mexico</Country>
+    <Postal Code></Postal Code>
+    <Market>LATAM</Market>
+    <Region>North</Region>
+    <Product ID>OFF-ST-10004432</Product ID>
+    <Category>Office Supplies</Category>
+    <Sub-Category>Storage</Sub-Category>
+    <Product Name>Fellowes Folders, Blue</Product Name>
+    <Sales>35.2</Sales>
+    <Quantity>2</Quantity>
+    <Discount>0</Discount>
+    <Profit>9.12</Profit>
+    <Shipping Cost>3.45</Shipping Cost>
+    <Order Priority>Medium</Order Priority>
+  </row>
+  <row>
+    <RowID>10</RowID>
+    <Order ID>MX-2014-114783</Order ID>
+    <Order Date>31-12-2014</Order Date>
+    <Ship Date>06-01-2015</Ship Date>
+    <Ship Mode>Standard Class</Ship Mode>
+    <Customer ID>TD-20995</Customer ID>
+    <Customer Name>Tamara Dahlen</Customer Name>
+    <Segment>Consumer</Segment>
+    <City>Juárez</City>
+    <State>Chihuahua</State>
+    <Country>Mexico</Country>
+    <Postal Code></Postal Code>
+    <Market>LATAM</Market>
+    <Region>North</Region>
+    <Product ID>OFF-LA-10000413</Product ID>
+    <Category>Office Supplies</Category>
+    <Sub-Category>Labels</Sub-Category>
+    <Product Name>Hon Legal Exhibit Labels, Alphabetical</Product Name>
+    <Sales>7.12</Sales>
+    <Quantity>1</Quantity>
+    <Discount>0</Discount>
+    <Profit>0.56</Profit>
+    <Shipping Cost>0.2</Shipping Cost>
+    <Order Priority>Medium</Order Priority>
+  </row>
+  <row>
+    <RowID>11</RowID>
+    <Order ID>MX-2014-141712</Order ID>
+    <Order Date>31-12-2014</Order Date>
+    <Ship Date>31-12-2014</Ship Date>
+    <Ship Mode>Same Day</Ship Mode>
+    <Customer ID>RB-19465</Customer ID>
+    <Customer Name>Rick Bensley</Customer Name>
+    <Segment>Home Office</Segment>
+    <City>Managua</City>
+    <State>Managua</State>
+    <Country>Nicaragua</Country>
+    <Postal Code></Postal Code>
+    <Market>LATAM</Market>
+    <Region>Central</Region>
+    <Product ID>FUR-CH-10000852</Product ID>
+    <Category>Furniture</Category>
+    <Sub-Category>Chairs</Sub-Category>
+    <Product Name>Novimex Chairmat, Set of Two</Product Name>
+    <Sales>78.12</Sales>
+    <Quantity>2</Quantity>
+    <Discount>0</Discount>
+    <Profit>35.92</Profit>
+    <Shipping Cost>25.16</Shipping Cost>
+    <Order Priority>Critical</Order Priority>
+  </row>
+  <row>
+    <RowID>12</RowID>
+    <Order ID>MX-2014-141712</Order ID>
+    <Order Date>31-12-2014</Order Date>
+    <Ship Date>31-12-2014</Ship Date>
+    <Ship Mode>Same Day</Ship Mode>
+    <Customer ID>RB-19465</Customer ID>
+    <Customer Name>Rick Bensley</Customer Name>
+    <Segment>Home Office</Segment>
+    <City>Managua</City>
+    <State>Managua</State>
+    <Country>Nicaragua</Country>
+    <Postal Code></Postal Code>
+    <Market>LATAM</Market>
+    <Region>Central</Region>
+    <Product ID>OFF-ST-10002122</Product ID>
+    <Category>Office Supplies</Category>
+    <Sub-Category>Storage</Sub-Category>
+    <Product Name>Smead Box, Industrial</Product Name>
+    <Sales>15</Sales>
+    <Quantity>2</Quantity>
+    <Discount>0</Discount>
+    <Profit>1.2</Profit>
+    <Shipping Cost>2.34</Shipping Cost>
+    <Order Priority>Critical</Order Priority>
+  </row>
+  <row>
+    <RowID>13</RowID>
+    <Order ID>MX-2014-141712</Order ID>
+    <Order Date>31-12-2014</Order Date>
+    <Ship Date>31-12-2014</Ship Date>
+    <Ship Mode>Same Day</Ship Mode>
+    <Customer ID>RB-19465</Customer ID>
+    <Customer Name>Rick Bensley</Customer Name>
+    <Segment>Home Office</Segment>
+    <City>Managua</City>
+    <State>Managua</State>
+    <Country>Nicaragua</Country>
+    <Postal Code></Postal Code>
+    <Market>LATAM</Market>
+    <Region>Central</Region>
+    <Product ID>OFF-PA-10003640</Product ID>
+    <Category>Office Supplies</Category>
+    <Sub-Category>Paper</Sub-Category>
+    <Product Name>Eaton Cards &amp; Envelopes, Recycled</Product Name>
+    <Sales>120.24</Sales>
+    <Quantity>4</Quantity>
+    <Discount>0</Discount>
+    <Profit>30</Profit>
+    <Shipping Cost>43.35</Shipping Cost>
+    <Order Priority>Critical</Order Priority>
+  </row>
+  <row>
+    <RowID>14</RowID>
+    <Order ID>MX-2014-110527</Order ID>
+    <Order Date>31-12-2014</Order Date>
+    <Ship Date>02-01-2015</Ship Date>
+    <Ship Mode>Second Class</Ship Mode>
+    <Customer ID>CM-12190</Customer ID>
+    <Customer Name>Charlotte Melton</Customer Name>
+    <Segment>Consumer</Segment>
+    <City>Managua</City>
+    <State>Managua</State>
+    <Country>Nicaragua</Country>
+    <Postal Code></Postal Code>
+    <Market>LATAM</Market>
+    <Region>Central</Region>
+    <Product ID>TEC-PH-10004901</Product ID>
+    <Category>Technology</Category>
+    <Sub-Category>Phones</Sub-Category>
+    <Product Name>Nokia Office Telephone, Cordless</Product Name>
+    <Sales>135.96</Sales>
+    <Quantity>3</Quantity>
+    <Discount>0</Discount>
+    <Profit>10.86</Profit>
+    <Shipping Cost>6</Shipping Cost>
+    <Order Priority>Medium</Order Priority>
+  </row>
+  <row>
+    <RowID>15</RowID>
+    <Order ID>MX-2014-110527</Order ID>
+    <Order Date>31-12-2014</Order Date>
+    <Ship Date>02-01-2015</Ship Date>
+    <Ship Mode>Second Class</Ship Mode>
+    <Customer ID>CM-12190</Customer ID>
+    <Customer Name>Charlotte Melton</Customer Name>
+    <Segment>Consumer</Segment>
+    <City>Managua</City>
+    <State>Managua</State>
+    <Country>Nicaragua</Country>
+    <Postal Code></Postal Code>
+    <Market>LATAM</Market>
+    <Region>Central</Region>
+    <Product ID>OFF-SU-10001624</Product ID>
+    <Category>Office Supplies</Category>
+    <Sub-Category>Supplies</Sub-Category>
+    <Product Name>Kleencut Ruler, High Speed</Product Name>
+    <Sales>72.32</Sales>
+    <Quantity>8</Quantity>
+    <Discount>0</Discount>
+    <Profit>6.4</Profit>
+    <Shipping Cost>5.64</Shipping Cost>
+    <Order Priority>Medium</Order Priority>
+  </row>
+  <row>
+    <RowID>16</RowID>
+    <Order ID>MX-2014-110527</Order ID>
+    <Order Date>31-12-2014</Order Date>
+    <Ship Date>02-01-2015</Ship Date>
+    <Ship Mode>Second Class</Ship Mode>
+    <Customer ID>CM-12190</Customer ID>
+    <Customer Name>Charlotte Melton</Customer Name>
+    <Segment>Consumer</Segment>
+    <City>Managua</City>
+    <State>Managua</State>
+    <Country>Nicaragua</Country>
+    <Postal Code></Postal Code>
+    <Market>LATAM</Market>
+    <Region>Central</Region>
+    <Product ID>OFF-LA-10004182</Product ID>
+    <Category>Office Supplies</Category>
+    <Sub-Category>Labels</Sub-Category>
+    <Product Name>Hon Color Coded Labels, 5000 Label Set</Product Name>
+    <Sales>26.4</Sales>
+    <Quantity>3</Quantity>
+    <Discount>0</Discount>
+    <Profit>12.36</Profit>
+    <Shipping Cost>0.35</Shipping Cost>
+    <Order Priority>Medium</Order Priority>
+  </row>
+  <row>
+    <RowID>17</RowID>
+    <Order ID>MX-2014-158827</Order ID>
+    <Order Date>31-12-2014</Order Date>
+    <Ship Date>02-01-2015</Ship Date>
+    <Ship Mode>First Class</Ship Mode>
+    <Customer ID>TC-21535</Customer ID>
+    <Customer Name>Tracy Collins</Customer Name>
+    <Segment>Home Office</Segment>
+    <City>Chaguanas</City>
+    <State>Chaguanas</State>
+    <Country>Trinidad and Tobago</Country>
+    <Postal Code></Postal Code>
+    <Market>LATAM</Market>
+    <Region>Caribbean</Region>
+    <Product ID>OFF-AP-10002439</Product ID>
+    <Category>Office Supplies</Category>
+    <Sub-Category>Appliances</Sub-Category>
+    <Product Name>Cuisinart Blender, Silver</Product Name>
+    <Sales>135.48</Sales>
+    <Quantity>3</Quantity>
+    <Discount>0</Discount>
+    <Profit>17.58</Profit>
+    <Shipping Cost>10.93</Shipping Cost>
+    <Order Priority>Medium</Order Priority>
+  </row>
+  <row>
+    <RowID>18</RowID>
+    <Order ID>ES-2014-2815584</Order ID>
+    <Order Date>31-12-2014</Order Date>
+    <Ship Date>04-01-2015</Ship Date>
+    <Ship Mode>Standard Class</Ship Mode>
+    <Customer ID>ES-14020</Customer ID>
+    <Customer Name>Erica Smith</Customer Name>
+    <Segment>Consumer</Segment>
+    <City>Bielefeld</City>
+    <State>North Rhine-Westphalia</State>
+    <Country>Germany</Country>
+    <Postal Code></Postal Code>
+    <Market>EU</Market>
+    <Region>Central</Region>
+    <Product ID>OFF-SU-10004279</Product ID>
+    <Category>Office Supplies</Category>
+    <Sub-Category>Supplies</Sub-Category>
+    <Product Name>Kleencut Shears, Serrated</Product Name>
+    <Sales>260.82</Sales>
+    <Quantity>6</Quantity>
+    <Discount>0</Discount>
+    <Profit>12.96</Profit>
+    <Shipping Cost>15.79</Shipping Cost>
+    <Order Priority>High</Order Priority>
+  </row>
+  <row>
+    <RowID>19</RowID>
+    <Order ID>ES-2014-4785777</Order ID>
+    <Order Date>31-12-2014</Order Date>
+    <Ship Date>04-01-2015</Ship Date>
+    <Ship Mode>Standard Class</Ship Mode>
+    <Customer ID>DP-13390</Customer ID>
+    <Customer Name>Dennis Pardue</Customer Name>
+    <Segment>Home Office</Segment>
+    <City>Hamburg</City>
+    <State>Hamburg</State>
+    <Country>Germany</Country>
+    <Postal Code></Postal Code>
+    <Market>EU</Market>
+    <Region>Central</Region>
+    <Product ID>OFF-BI-10000620</Product ID>
+    <Category>Office Supplies</Category>
+    <Sub-Category>Binders</Sub-Category>
+    <Product Name>Wilson Jones Index Tab, Economy</Product Name>
+    <Sales>32.25</Sales>
+    <Quantity>5</Quantity>
+    <Discount>0</Discount>
+    <Profit>8.25</Profit>
+    <Shipping Cost>2.21</Shipping Cost>
+    <Order Priority>Medium</Order Priority>
+  </row>
+  <row>
+    <RowID>20</RowID>
+    <Order ID>ES-2014-3458802</Order ID>
+    <Order Date>31-12-2014</Order Date>
+    <Ship Date>05-01-2015</Ship Date>
+    <Ship Mode>Standard Class</Ship Mode>
+    <Customer ID>JG-15805</Customer ID>
+    <Customer Name>John Grady</Customer Name>
+    <Segment>Corporate</Segment>
+    <City>Maidenhead</City>
+    <State>England</State>
+    <Country>United Kingdom</Country>
+    <Postal Code></Postal Code>
+    <Market>EU</Market>
+    <Region>North</Region>
+    <Product ID>FUR-BO-10004080</Product ID>
+    <Category>Furniture</Category>
+    <Sub-Category>Bookcases</Sub-Category>
+    <Product Name>Ikea Stackable Bookrack, Traditional</Product Name>
+    <Sales>245.16</Sales>
+    <Quantity>2</Quantity>
+    <Discount>0</Discount>
+    <Profit>90.66</Profit>
+    <Shipping Cost>19.21</Shipping Cost>
+    <Order Priority>Medium</Order Priority>
+  </row>
+  <row>
+    <RowID>21</RowID>
+    <Order ID>ES-2014-3458802</Order ID>
+    <Order Date>31-12-2014</Order Date>
+    <Ship Date>05-01-2015</Ship Date>
+    <Ship Mode>Standard Class</Ship Mode>
+    <Customer ID>JG-15805</Customer ID>
+    <Customer Name>John Grady</Customer Name>
+    <Segment>Corporate</Segment>
+    <City>Maidenhead</City>
+    <State>England</State>
+    <Country>United Kingdom</Country>
+    <Postal Code></Postal Code>
+    <Market>EU</Market>
+    <Region>North</Region>
+    <Product ID>TEC-PH-10003683</Product ID>
+    <Category>Technology</Category>
+    <Sub-Category>Phones</Sub-Category>
+    <Product Name>Motorola Audio Dock, VoIP</Product Name>
+    <Sales>867.3</Sales>
+    <Quantity>5</Quantity>
+    <Discount>0</Discount>
+    <Profit>251.4</Profit>
+    <Shipping Cost>53.16</Shipping Cost>
+    <Order Priority>Medium</Order Priority>
+  </row>
+  <row>
+    <RowID>22</RowID>
+    <Order ID>ES-2014-5281275</Order ID>
+    <Order Date>31-12-2014</Order Date>
+    <Ship Date>04-01-2015</Ship Date>
+    <Ship Mode>Second Class</Ship Mode>
+    <Customer ID>SS-20515</Customer ID>
+    <Customer Name>Shirley Schmidt</Customer Name>
+    <Segment>Home Office</Segment>
+    <City>Madrid</City>
+    <State>Madrid</State>
+    <Country>Spain</Country>
+    <Postal Code></Postal Code>
+    <Market>EU</Market>
+    <Region>South</Region>
+    <Product ID>TEC-CO-10002284</Product ID>
+    <Category>Technology</Category>
+    <Sub-Category>Copiers</Sub-Category>
+    <Product Name>Hewlett Copy Machine, Color</Product Name>
+    <Sales>530.22</Sales>
+    <Quantity>2</Quantity>
+    <Discount>0</Discount>
+    <Profit>180.24</Profit>
+    <Shipping Cost>48</Shipping Cost>
+    <Order Priority>Medium</Order Priority>
+  </row>
+  <row>
+    <RowID>23</RowID>
+    <Order ID>ES-2014-1695428</Order ID>
+    <Order Date>31-12-2014</Order Date>
+    <Ship Date>02-01-2015</Ship Date>
+    <Ship Mode>Second Class</Ship Mode>
+    <Customer ID>RD-19480</Customer ID>
+    <Customer Name>Rick Duston</Customer Name>
+    <Segment>Consumer</Segment>
+    <City>Caen</City>
+    <State>Lower Normandy</State>
+    <Country>France</Country>
+    <Postal Code></Postal Code>
+    <Market>EU</Market>
+    <Region>Central</Region>
+    <Product ID>OFF-ST-10002159</Product ID>
+    <Category>Office Supplies</Category>
+    <Sub-Category>Storage</Sub-Category>
+    <Product Name>Fellowes Lockers, Wire Frame</Product Name>
+    <Sales>557.28</Sales>
+    <Quantity>3</Quantity>
+    <Discount>0.1</Discount>
+    <Profit>216.72</Profit>
+    <Shipping Cost>51.79</Shipping Cost>
+    <Order Priority>Medium</Order Priority>
+  </row>
+  <row>
+    <RowID>24</RowID>
+    <Order ID>ES-2014-3638865</Order ID>
+    <Order Date>31-12-2014</Order Date>
+    <Ship Date>01-01-2015</Ship Date>
+    <Ship Mode>First Class</Ship Mode>
+    <Customer ID>SV-20935</Customer ID>
+    <Customer Name>Susan Vittorini</Customer Name>
+    <Segment>Consumer</Segment>
+    <City>Worcester</City>
+    <State>England</State>
+    <Country>United Kingdom</Country>
+    <Postal Code></Postal Code>
+    <Market>EU</Market>
+    <Region>North</Region>
+    <Product ID>OFF-ST-10002539</Product ID>
+    <Category>Office Supplies</Category>
+    <Sub-Category>Storage</Sub-Category>
+    <Product Name>Fellowes Shelving, Single Width</Product Name>
+    <Sales>289.35</Sales>
+    <Quantity>5</Quantity>
+    <Discount>0</Discount>
+    <Profit>75.15</Profit>
+    <Shipping Cost>34.47</Shipping Cost>
+    <Order Priority>Critical</Order Priority>
+  </row>
+  <row>
+    <RowID>25</RowID>
+    <Order ID>IT-2014-3715679</Order ID>
+    <Order Date>31-12-2014</Order Date>
+    <Ship Date>05-01-2015</Ship Date>
+    <Ship Mode>Second Class</Ship Mode>
+    <Customer ID>JK-15640</Customer ID>
+    <Customer Name>Jim Kriz</Customer Name>
+    <Segment>Home Office</Segment>
+    <City>Eindhoven</City>
+    <State>North Brabant</State>
+    <Country>Netherlands</Country>
+    <Postal Code></Postal Code>
+    <Market>EU</Market>
+    <Region>Central</Region>
+    <Product ID>OFF-AR-10000659</Product ID>
+    <Category>Office Supplies</Category>
+    <Sub-Category>Art</Sub-Category>
+    <Product Name>BIC Pencil Sharpener, Fluorescent</Product Name>
+    <Sales>30.27</Sales>
+    <Quantity>2</Quantity>
+    <Discount>0.5</Discount>
+    <Profit>-9.69</Profit>
+    <Shipping Cost>4.46</Shipping Cost>
+    <Order Priority>High</Order Priority>
+  </row>
+  <row>
+    <RowID>26</RowID>
+    <Order ID>IT-2014-3715679</Order ID>
+    <Order Date>31-12-2014</Order Date>
+    <Ship Date>05-01-2015</Ship Date>
+    <Ship Mode>Second Class</Ship Mode>
+    <Customer ID>JK-15640</Customer ID>
+    <Customer Name>Jim Kriz</Customer Name>
+    <Segment>Home Office</Segment>
+    <City>Eindhoven</City>
+    <State>North Brabant</State>
+    <Country>Netherlands</Country>
+    <Postal Code></Postal Code>
+    <Market>EU</Market>
+    <Region>Central</Region>
+    <Product ID>TEC-MA-10001197</Product ID>
+    <Category>Technology</Category>
+    <Sub-Category>Machines</Sub-Category>
+    <Product Name>StarTech Phone, Red</Product Name>
+    <Sales>107.505</Sales>
+    <Quantity>3</Quantity>
+    <Discount>0.5</Discount>
+    <Profit>-19.395</Profit>
+    <Shipping Cost>22.09</Shipping Cost>
+    <Order Priority>High</Order Priority>
+  </row>
+  <row>
+    <RowID>27</RowID>
+    <Order ID>IT-2014-3715679</Order ID>
+    <Order Date>31-12-2014</Order Date>
+    <Ship Date>05-01-2015</Ship Date>
+    <Ship Mode>Second Class</Ship Mode>
+    <Customer ID>JK-15640</Customer ID>
+    <Customer Name>Jim Kriz</Customer Name>
+    <Segment>Home Office</Segment>
+    <City>Eindhoven</City>
+    <State>North Brabant</State>
+    <Country>Netherlands</Country>
+    <Postal Code></Postal Code>
+    <Market>EU</Market>
+    <Region>Central</Region>
+    <Product ID>OFF-BI-10002986</Product ID>
+    <Category>Office Supplies</Category>
+    <Sub-Category>Binders</Sub-Category>
+    <Product Name>Avery Binder Covers, Recycled</Product Name>
+    <Sales>22.86</Sales>
+    <Quantity>4</Quantity>
+    <Discount>0.5</Discount>
+    <Profit>-6.42</Profit>
+    <Shipping Cost>3.46</Shipping Cost>
+    <Order Priority>High</Order Priority>
+  </row>
+  <row>
+    <RowID>28</RowID>
+    <Order ID>ID-2014-58418</Order ID>
+    <Order Date>31-12-2014</Order Date>
+    <Ship Date>02-01-2015</Ship Date>
+    <Ship Mode>First Class</Ship Mode>
+    <Customer ID>JA-15970</Customer ID>
+    <Customer Name>Joseph Airdo</Customer Name>
+    <Segment>Consumer</Segment>
+    <City>Anqing</City>
+    <State>Anhui</State>
+    <Country>China</Country>
+    <Postal Code></Postal Code>
+    <Market>APAC</Market>
+    <Region>North Asia</Region>
+    <Product ID>OFF-AR-10002389</Product ID>
+    <Category>Office Supplies</Category>
+    <Sub-Category>Art</Sub-Category>
+    <Product Name>Binney &amp; Smith Pens, Fluorescent</Product Name>
+    <Sales>39.6</Sales>
+    <Quantity>3</Quantity>
+    <Discount>0</Discount>
+    <Profit>6.66</Profit>
+    <Shipping Cost>5.22</Shipping Cost>
+    <Order Priority>High</Order Priority>
+  </row>
+  <row>
+    <RowID>29</RowID>
+    <Order ID>IN-2014-78228</Order ID>
+    <Order Date>31-12-2014</Order Date>
+    <Ship Date>06-01-2015</Ship Date>
+    <Ship Mode>Standard Class</Ship Mode>
+    <Customer ID>MH-17785</Customer ID>
+    <Customer Name>Maya Herman</Customer Name>
+    <Segment>Corporate</Segment>
+    <City>Surabaya</City>
+    <State>Jawa Timur</State>
+    <Country>Indonesia</Country>
+    <Postal Code></Postal Code>
+    <Market>APAC</Market>
+    <Region>Southeast Asia</Region>
+    <Product ID>TEC-PH-10004402</Product ID>
+    <Category>Technology</Category>
+    <Sub-Category>Phones</Sub-Category>
+    <Product Name>Cisco Headset, with Caller ID</Product Name>
+    <Sales>293.6208</Sales>
+    <Quantity>4</Quantity>
+    <Discount>0.17</Discount>
+    <Profit>88.4208</Profit>
+    <Shipping Cost>13.57</Shipping Cost>
+    <Order Priority>Medium</Order Priority>
+  </row>
+  <row>
+    <RowID>30</RowID>
+    <Order ID>IN-2014-78627</Order ID>
+    <Order Date>31-12-2014</Order Date>
+    <Ship Date>04-01-2015</Ship Date>
+    <Ship Mode>Standard Class</Ship Mode>
+    <Customer ID>MG-17695</Customer ID>
+    <Customer Name>Maureen Gnade</Customer Name>
+    <Segment>Consumer</Segment>
+    <City>Jilin</City>
+    <State>Jilin</State>
+    <Country>China</Country>
+    <Postal Code></Postal Code>
+    <Market>APAC</Market>
+    <Region>North Asia</Region>
+    <Product ID>TEC-AC-10003750</Product ID>
+    <Category>Technology</Category>
+    <Sub-Category>Accessories</Sub-Category>
+    <Product Name>Memorex Memory Card, Erganomic</Product Name>
+    <Sales>300.24</Sales>
+    <Quantity>3</Quantity>
+    <Discount>0</Discount>
+    <Profit>84.06</Profit>
+    <Shipping Cost>23.96</Shipping Cost>
+    <Order Priority>Medium</Order Priority>
+  </row>
+  <row>
+    <RowID>31</RowID>
+    <Order ID>IN-2014-75603</Order ID>
+    <Order Date>31-12-2014</Order Date>
+    <Ship Date>05-01-2015</Ship Date>
+    <Ship Mode>Second Class</Ship Mode>
+    <Customer ID>BS-11365</Customer ID>
+    <Customer Name>Bill Shonely</Customer Name>
+    <Segment>Corporate</Segment>
+    <City>Vijayawada</City>
+    <State>Andhra Pradesh</State>
+    <Country>India</Country>
+    <Postal Code></Postal Code>
+    <Market>APAC</Market>
+    <Region>Central Asia</Region>
+    <Product ID>OFF-SU-10001618</Product ID>
+    <Category>Office Supplies</Category>
+    <Sub-Category>Supplies</Sub-Category>
+    <Product Name>Kleencut Letter Opener, Easy Grip</Product Name>
+    <Sales>258.12</Sales>
+    <Quantity>9</Quantity>
+    <Discount>0</Discount>
+    <Profit>92.88</Profit>
+    <Shipping Cost>46.11</Shipping Cost>
+    <Order Priority>Medium</Order Priority>
+  </row>
+  <row>
+    <RowID>32</RowID>
+    <Order ID>IN-2014-75603</Order ID>
+    <Order Date>31-12-2014</Order Date>
+    <Ship Date>05-01-2015</Ship Date>
+    <Ship Mode>Second Class</Ship Mode>
+    <Customer ID>BS-11365</Customer ID>
+    <Customer Name>Bill Shonely</Customer Name>
+    <Segment>Corporate</Segment>
+    <City>Vijayawada</City>
+    <State>Andhra Pradesh</State>
+    <Country>India</Country>
+    <Postal Code></Postal Code>
+    <Market>APAC</Market>
+    <Region>Central Asia</Region>
+    <Product ID>TEC-AC-10002255</Product ID>
+    <Category>Technology</Category>
+    <Sub-Category>Accessories</Sub-Category>
+    <Product Name>Memorex Keyboard, Erganomic</Product Name>
+    <Sales>276.6</Sales>
+    <Quantity>4</Quantity>
+    <Discount>0</Discount>
+    <Profit>105</Profit>
+    <Shipping Cost>21.84</Shipping Cost>
+    <Order Priority>Medium</Order Priority>
+  </row>
+  <row>
+    <RowID>33</RowID>
+    <Order ID>IN-2014-75603</Order ID>
+    <Order Date>31-12-2014</Order Date>
+    <Ship Date>05-01-2015</Ship Date>
+    <Ship Mode>Second Class</Ship Mode>
+    <Customer ID>BS-11365</Customer ID>
+    <Customer Name>Bill Shonely</Customer Name>
+    <Segment>Corporate</Segment>
+    <City>Vijayawada</City>
+    <State>Andhra Pradesh</State>
+    <Country>India</Country>
+    <Postal Code></Postal Code>
+    <Market>APAC</Market>
+    <Region>Central Asia</Region>
+    <Product ID>FUR-BO-10000670</Product ID>
+    <Category>Furniture</Category>
+    <Sub-Category>Bookcases</Sub-Category>
+    <Product Name>Dania Corner Shelving, Metal</Product Name>
+    <Sales>364.59</Sales>
+    <Quantity>3</Quantity>
+    <Discount>0</Discount>
+    <Profit>153.09</Profit>
+    <Shipping Cost>4.12</Shipping Cost>
+    <Order Priority>Medium</Order Priority>
+  </row>
+  <row>
+    <RowID>34</RowID>
+    <Order ID>IN-2014-75603</Order ID>
+    <Order Date>31-12-2014</Order Date>
+    <Ship Date>05-01-2015</Ship Date>
+    <Ship Mode>Second Class</Ship Mode>
+    <Customer ID>BS-11365</Customer ID>
+    <Customer Name>Bill Shonely</Customer Name>
+    <Segment>Corporate</Segment>
+    <City>Vijayawada</City>
+    <State>Andhra Pradesh</State>
+    <Country>India</Country>
+    <Postal Code></Postal Code>
+    <Market>APAC</Market>
+    <Region>Central Asia</Region>
+    <Product ID>OFF-ST-10001824</Product ID>
+    <Category>Office Supplies</Category>
+    <Sub-Category>Storage</Sub-Category>
+    <Product Name>Rogers Box, Single Width</Product Name>
+    <Sales>72</Sales>
+    <Quantity>3</Quantity>
+    <Discount>0</Discount>
+    <Profit>4.32</Profit>
+    <Shipping Cost>3.88</Shipping Cost>
+    <Order Priority>Medium</Order Priority>
+  </row>
+  <row>
+    <RowID>35</RowID>
+    <Order ID>IN-2014-75603</Order ID>
+    <Order Date>31-12-2014</Order Date>
+    <Ship Date>05-01-2015</Ship Date>
+    <Ship Mode>Second Class</Ship Mode>
+    <Customer ID>BS-11365</Customer ID>
+    <Customer Name>Bill Shonely</Customer Name>
+    <Segment>Corporate</Segment>
+    <City>Vijayawada</City>
+    <State>Andhra Pradesh</State>
+    <Country>India</Country>
+    <Postal Code></Postal Code>
+    <Market>APAC</Market>
+    <Region>Central Asia</Region>
+    <Product ID>OFF-FA-10000263</Product ID>
+    <Category>Office Supplies</Category>
+    <Sub-Category>Fasteners</Sub-Category>
+    <Product Name>Stockwell Thumb Tacks, Bulk Pack</Product Name>
+    <Sales>39.42</Sales>
+    <Quantity>3</Quantity>
+    <Discount>0</Discount>
+    <Profit>17.28</Profit>
+    <Shipping Cost>2.97</Shipping Cost>
+    <Order Priority>Medium</Order Priority>
+  </row>
+  <row>
+    <RowID>36</RowID>
+    <Order ID>IN-2014-30390</Order ID>
+    <Order Date>31-12-2014</Order Date>
+    <Ship Date>03-01-2015</Ship Date>
+    <Ship Mode>First Class</Ship Mode>
+    <Customer ID>JD-16150</Customer ID>
+    <Customer Name>Justin Deggeller</Customer Name>
+    <Segment>Corporate</Segment>
+    <City>Bangkok</City>
+    <State>Bangkok</State>
+    <Country>Thailand</Country>
+    <Postal Code></Postal Code>
+    <Market>APAC</Market>
+    <Region>Southeast Asia</Region>
+    <Product ID>FUR-TA-10001531</Product ID>
+    <Category>Furniture</Category>
+    <Sub-Category>Tables</Sub-Category>
+    <Product Name>Lesro Training Table, Adjustable Height</Product Name>
+    <Sales>1048.7313</Sales>
+    <Quantity>9</Quantity>
+    <Discount>0.57</Discount>
+    <Profit>-1195.2387</Profit>
+    <Shipping Cost>86.86</Shipping Cost>
+    <Order Priority>High</Order Priority>
+  </row>
+  <row>
+    <RowID>37</RowID>
+    <Order ID>IN-2014-30390</Order ID>
+    <Order Date>31-12-2014</Order Date>
+    <Ship Date>03-01-2015</Ship Date>
+    <Ship Mode>First Class</Ship Mode>
+    <Customer ID>JD-16150</Customer ID>
+    <Customer Name>Justin Deggeller</Customer Name>
+    <Segment>Corporate</Segment>
+    <City>Bangkok</City>
+    <State>Bangkok</State>
+    <Country>Thailand</Country>
+    <Postal Code></Postal Code>
+    <Market>APAC</Market>
+    <Region>Southeast Asia</Region>
+    <Product ID>OFF-EN-10004486</Product ID>
+    <Category>Office Supplies</Category>
+    <Sub-Category>Envelopes</Sub-Category>
+    <Product Name>GlobeWeis Business Envelopes, Security-Tint</Product Name>
+    <Sales>20.9244</Sales>
+    <Quantity>2</Quantity>
+    <Discount>0.47</Discount>
+    <Profit>-14.2356</Profit>
+    <Shipping Cost>4.6</Shipping Cost>
+    <Order Priority>High</Order Priority>
+  </row>
+  <row>
+    <RowID>38</RowID>
+    <Order ID>IN-2014-30390</Order ID>
+    <Order Date>31-12-2014</Order Date>
+    <Ship Date>03-01-2015</Ship Date>
+    <Ship Mode>First Class</Ship Mode>
+    <Customer ID>JD-16150</Customer ID>
+    <Customer Name>Justin Deggeller</Customer Name>
+    <Segment>Corporate</Segment>
+    <City>Bangkok</City>
+    <State>Bangkok</State>
+    <Country>Thailand</Country>
+    <Postal Code></Postal Code>
+    <Market>APAC</Market>
+    <Region>Southeast Asia</Region>
+    <Product ID>FUR-CH-10003861</Product ID>
+    <Category>Furniture</Category>
+    <Sub-Category>Chairs</Sub-Category>
+    <Product Name>Novimex Rocking Chair, Set of Two</Product Name>
+    <Sales>292.7592</Sales>
+    <Quantity>3</Quantity>
+    <Discount>0.27</Discount>
+    <Profit>68.1192</Profit>
+    <Shipping Cost>52.11</Shipping Cost>
+    <Order Priority>High</Order Priority>
+  </row>
+  <row>
+    <RowID>39</RowID>
+    <Order ID>IN-2014-43550</Order ID>
+    <Order Date>31-12-2014</Order Date>
+    <Ship Date>01-01-2015</Ship Date>
+    <Ship Mode>First Class</Ship Mode>
+    <Customer ID>ML-17395</Customer ID>
+    <Customer Name>Marina Lichtenstein</Customer Name>
+    <Segment>Corporate</Segment>
+    <City>Jakarta</City>
+    <State>Jakarta</State>
+    <Country>Indonesia</Country>
+    <Postal Code></Postal Code>
+    <Market>APAC</Market>
+    <Region>Southeast Asia</Region>
+    <Product ID>FUR-BO-10004679</Product ID>
+    <Category>Furniture</Category>
+    <Sub-Category>Bookcases</Sub-Category>
+    <Product Name>Safco Library with Doors, Pine</Product Name>
+    <Sales>1091.2806</Sales>
+    <Quantity>3</Quantity>
+    <Discount>0.07</Discount>
+    <Profit>46.9206</Profit>
+    <Shipping Cost>243.11</Shipping Cost>
+    <Order Priority>High</Order Priority>
+  </row>
+  <row>
+    <RowID>40</RowID>
+    <Order ID>IN-2014-23754</Order ID>
+    <Order Date>31-12-2014</Order Date>
+    <Ship Date>07-01-2015</Ship Date>
+    <Ship Mode>Standard Class</Ship Mode>
+    <Customer ID>KM-16225</Customer ID>
+    <Customer Name>Kalyca Meade</Customer Name>
+    <Segment>Corporate</Segment>
+    <City>Shantou</City>
+    <State>Guangdong</State>
+    <Country>China</Country>
+    <Postal Code></Postal Code>
+    <Market>APAC</Market>
+    <Region>North Asia</Region>
+    <Product ID>TEC-AC-10002324</Product ID>
+    <Category>Technology</Category>
+    <Sub-Category>Accessories</Sub-Category>
+    <Product Name>Enermax Numeric Keypad, Bluetooth</Product Name>
+    <Sales>171.99</Sales>
+    <Quantity>3</Quantity>
+    <Discount>0</Discount>
+    <Profit>6.84</Profit>
+    <Shipping Cost>16.66</Shipping Cost>
+    <Order Priority>Medium</Order Priority>
+  </row>
+  <row>
+    <RowID>41</RowID>
+    <Order ID>IN-2014-23754</Order ID>
+    <Order Date>31-12-2014</Order Date>
+    <Ship Date>07-01-2015</Ship Date>
+    <Ship Mode>Standard Class</Ship Mode>
+    <Customer ID>KM-16225</Customer ID>
+    <Customer Name>Kalyca Meade</Customer Name>
+    <Segment>Corporate</Segment>
+    <City>Shantou</City>
+    <State>Guangdong</State>
+    <Country>China</Country>
+    <Postal Code></Postal Code>
+    <Market>APAC</Market>
+    <Region>North Asia</Region>
+    <Product ID>OFF-PA-10004727</Product ID>
+    <Category>Office Supplies</Category>
+    <Sub-Category>Paper</Sub-Category>
+    <Product Name>Eaton Note Cards, 8.5 x 11</Product Name>
+    <Sales>79.47</Sales>
+    <Quantity>3</Quantity>
+    <Discount>0</Discount>
+    <Profit>25.38</Profit>
+    <Shipping Cost>1.41</Shipping Cost>
+    <Order Priority>Medium</Order Priority>
+  </row>
+  <row>
+    <RowID>42</RowID>
+    <Order ID>IN-2014-23754</Order ID>
+    <Order Date>31-12-2014</Order Date>
+    <Ship Date>07-01-2015</Ship Date>
+    <Ship Mode>Standard Class</Ship Mode>
+    <Customer ID>KM-16225</Customer ID>
+    <Customer Name>Kalyca Meade</Customer Name>
+    <Segment>Corporate</Segment>
+    <City>Shantou</City>
+    <State>Guangdong</State>
+    <Country>China</Country>
+    <Postal Code></Postal Code>
+    <Market>APAC</Market>
+    <Region>North Asia</Region>
+    <Product ID>OFF-EN-10002630</Product ID>
+    <Category>Office Supplies</Category>
+    <Sub-Category>Envelopes</Sub-Category>
+    <Product Name>Ames Business Envelopes, Recycled</Product Name>
+    <Sales>67.2</Sales>
+    <Quantity>5</Quantity>
+    <Discount>0</Discount>
+    <Profit>24.75</Profit>
+    <Shipping Cost>4.06</Shipping Cost>
+    <Order Priority>Medium</Order Priority>
+  </row>
+  <row>
+    <RowID>43</RowID>
+    <Order ID>ID-2014-54442</Order ID>
+    <Order Date>31-12-2014</Order Date>
+    <Ship Date>04-01-2015</Ship Date>
+    <Ship Mode>Standard Class</Ship Mode>
+    <Customer ID>MY-18295</Customer ID>
+    <Customer Name>Muhammed Yedwab</Customer Name>
+    <Segment>Corporate</Segment>
+    <City>Manila</City>
+    <State>National Capital</State>
+    <Country>Philippines</Country>
+    <Postal Code></Postal Code>
+    <Market>APAC</Market>
+    <Region>Southeast Asia</Region>
+    <Product ID>TEC-AC-10002221</Product ID>
+    <Category>Technology</Category>
+    <Sub-Category>Accessories</Sub-Category>
+    <Product Name>Memorex Mouse, Bluetooth</Product Name>
+    <Sales>61.974</Sales>
+    <Quantity>4</Quantity>
+    <Discount>0.45</Discount>
+    <Profit>-37.266</Profit>
+    <Shipping Cost>3.18</Shipping Cost>
+    <Order Priority>Medium</Order Priority>
+  </row>
+  <row>
+    <RowID>44</RowID>
+    <Order ID>ID-2014-54442</Order ID>
+    <Order Date>31-12-2014</Order Date>
+    <Ship Date>04-01-2015</Ship Date>
+    <Ship Mode>Standard Class</Ship Mode>
+    <Customer ID>MY-18295</Customer ID>
+    <Customer Name>Muhammed Yedwab</Customer Name>
+    <Segment>Corporate</Segment>
+    <City>Manila</City>
+    <State>National Capital</State>
+    <Country>Philippines</Country>
+    <Postal Code></Postal Code>
+    <Market>APAC</Market>
+    <Region>Southeast Asia</Region>
+    <Product ID>TEC-CO-10000666</Product ID>
+    <Category>Technology</Category>
+    <Sub-Category>Copiers</Sub-Category>
+    <Product Name>Hewlett Copy Machine, Laser</Product Name>
+    <Sales>684.606</Sales>
+    <Quantity>4</Quantity>
+    <Discount>0.35</Discount>
+    <Profit>-63.234</Profit>
+    <Shipping Cost>42.92</Shipping Cost>
+    <Order Priority>Medium</Order Priority>
+  </row>
+  <row>
+    <RowID>45</RowID>
+    <Order ID>CA-2014-126221</Order ID>
+    <Order Date>31-12-2014</Order Date>
+    <Ship Date>06-01-2015</Ship Date>
+    <Ship Mode>Standard Class</Ship Mode>
+    <Customer ID>CC-12430</Customer ID>
+    <Customer Name>Chuck Clark</Customer Name>
+    <Segment>Home Office</Segment>
+    <City>Columbus</City>
+    <State>Indiana</State>
+    <Country>United States</Country>
+    <Postal Code>47201</Postal Code>
+    <Market>US</Market>
+    <Region>Central</Region>
+    <Product ID>OFF-AP-10002457</Product ID>
+    <Category>Office Supplies</Category>
+    <Sub-Category>Appliances</Sub-Category>
+    <Product Name>Eureka The Boss Plus 12-Amp Hard Box Upright Vacuum, Red</Product Name>
+    <Sales>209.3</Sales>
+    <Quantity>2</Quantity>
+    <Discount>0</Discount>
+    <Profit>56.511</Profit>
+    <Shipping Cost>8.32</Shipping Cost>
+    <Order Priority>Medium</Order Priority>
+  </row>
+  <row>
+    <RowID>46</RowID>
+    <Order ID>CA-2014-143259</Order ID>
+    <Order Date>31-12-2014</Order Date>
+    <Ship Date>04-01-2015</Ship Date>
+    <Ship Mode>Standard Class</Ship Mode>
+    <Customer ID>PO-18865</Customer ID>
+    <Customer Name>Patrick O&apos;Donnell</Customer Name>
+    <Segment>Consumer</Segment>
+    <City>New York City</City>
+    <State>New York</State>
+    <Country>United States</Country>
+    <Postal Code>10009</Postal Code>
+    <Market>US</Market>
+    <Region>East</Region>
+    <Product ID>FUR-BO-10003441</Product ID>
+    <Category>Furniture</Category>
+    <Sub-Category>Bookcases</Sub-Category>
+    <Product Name>Bush Westfield Collection Bookcases, Fully Assembled</Product Name>
+    <Sales>323.136</Sales>
+    <Quantity>4</Quantity>
+    <Discount>0.2</Discount>
+    <Profit>12.1176</Profit>
+    <Shipping Cost>38.27</Shipping Cost>
+    <Order Priority>High</Order Priority>
+  </row>
+  <row>
+    <RowID>47</RowID>
+    <Order ID>CA-2014-143259</Order ID>
+    <Order Date>31-12-2014</Order Date>
+    <Ship Date>04-01-2015</Ship Date>
+    <Ship Mode>Standard Class</Ship Mode>
+    <Customer ID>PO-18865</Customer ID>
+    <Customer Name>Patrick O&apos;Donnell</Customer Name>
+    <Segment>Consumer</Segment>
+    <City>New York City</City>
+    <State>New York</State>
+    <Country>United States</Country>
+    <Postal Code>10009</Postal Code>
+    <Market>US</Market>
+    <Region>East</Region>
+    <Product ID>TEC-PH-10004774</Product ID>
+    <Category>Technology</Category>
+    <Sub-Category>Phones</Sub-Category>
+    <Product Name>Gear Head AU3700S Headset</Product Name>
+    <Sales>90.93</Sales>
+    <Quantity>7</Quantity>
+    <Discount>0</Discount>
+    <Profit>2.7279</Profit>
+    <Shipping Cost>9.67</Shipping Cost>
+    <Order Priority>High</Order Priority>
+  </row>
+  <row>
+    <RowID>48</RowID>
+    <Order ID>CA-2014-143259</Order ID>
+    <Order Date>31-12-2014</Order Date>
+    <Ship Date>04-01-2015</Ship Date>
+    <Ship Mode>Standard Class</Ship Mode>
+    <Customer ID>PO-18865</Customer ID>
+    <Customer Name>Patrick O&apos;Donnell</Customer Name>
+    <Segment>Consumer</Segment>
+    <City>New York City</City>
+    <State>New York</State>
+    <Country>United States</Country>
+    <Postal Code>10009</Postal Code>
+    <Market>US</Market>
+    <Region>East</Region>
+    <Product ID>OFF-BI-10003684</Product ID>
+    <Category>Office Supplies</Category>
+    <Sub-Category>Binders</Sub-Category>
+    <Product Name>Wilson Jones Legal Size Ring Binders</Product Name>
+    <Sales>52.776</Sales>
+    <Quantity>3</Quantity>
+    <Discount>0.2</Discount>
+    <Profit>19.791</Profit>
+    <Shipping Cost>7.21</Shipping Cost>
+    <Order Priority>High</Order Priority>
+  </row>
+  <row>
+    <RowID>49</RowID>
+    <Order ID>CA-2014-115427</Order ID>
+    <Order Date>31-12-2014</Order Date>
+    <Ship Date>04-01-2015</Ship Date>
+    <Ship Mode>Standard Class</Ship Mode>
+    <Customer ID>EB-13975</Customer ID>
+    <Customer Name>Erica Bern</Customer Name>
+    <Segment>Corporate</Segment>
+    <City>Fairfield</City>
+    <State>California</State>
+    <Country>United States</Country>
+    <Postal Code>94533</Postal Code>
+    <Market>US</Market>
+    <Region>West</Region>
+    <Product ID>OFF-BI-10002103</Product ID>
+    <Category>Office Supplies</Category>
+    <Sub-Category>Binders</Sub-Category>
+    <Product Name>Cardinal Slant-D Ring Binder, Heavy Gauge Vinyl</Product Name>
+    <Sales>13.904</Sales>
+    <Quantity>2</Quantity>
+    <Discount>0.2</Discount>
+    <Profit>4.5188</Profit>
+    <Shipping Cost>0.89</Shipping Cost>
+    <Order Priority>Medium</Order Priority>
+  </row>
+  <row>
+    <RowID>50</RowID>
+    <Order ID>CA-2014-115427</Order ID>
+    <Order Date>31-12-2014</Order Date>
+    <Ship Date>04-01-2015</Ship Date>
+    <Ship Mode>Standard Class</Ship Mode>
+    <Customer ID>EB-13975</Customer ID>
+    <Customer Name>Erica Bern</Customer Name>
+    <Segment>Corporate</Segment>
+    <City>Fairfield</City>
+    <State>California</State>
+    <Country>United States</Country>
+    <Postal Code>94533</Postal Code>
+    <Market>US</Market>
+    <Region>West</Region>
+    <Product ID>OFF-BI-10004632</Product ID>
+    <Category>Office Supplies</Category>
+    <Sub-Category>Binders</Sub-Category>
+    <Product Name>GBC Binding covers</Product Name>
+    <Sales>20.72</Sales>
+    <Quantity>2</Quantity>
+    <Discount>0.2</Discount>
+    <Profit>6.475</Profit>
+    <Shipping Cost>2.06</Shipping Cost>
+    <Order Priority>Medium</Order Priority>
+  </row>
+  <row>
+    <RowID>51</RowID>
+    <Order ID>CA-2014-156720</Order ID>
+    <Order Date>31-12-2014</Order Date>
+    <Ship Date>04-01-2015</Ship Date>
+    <Ship Mode>Standard Class</Ship Mode>
+    <Customer ID>JM-15580</Customer ID>
+    <Customer Name>Jill Matthias</Customer Name>
+    <Segment>Consumer</Segment>
+    <City>Loveland</City>
+    <State>Colorado</State>
+    <Country>United States</Country>
+    <Postal Code>80538</Postal Code>
+    <Market>US</Market>
+    <Region>West</Region>
+    <Product ID>OFF-FA-10003472</Product ID>
+    <Category>Office Supplies</Category>
+    <Sub-Category>Fasteners</Sub-Category>
+    <Product Name>Bagged Rubber Bands</Product Name>
+    <Sales>3.024</Sales>
+    <Quantity>3</Quantity>
+    <Discount>0.2</Discount>
+    <Profit>-0.6048</Profit>
+    <Shipping Cost>0.17</Shipping Cost>
+    <Order Priority>Medium</Order Priority>
+  </row>
+  <row>
+    <RowID>52</RowID>
+    <Order ID>TU-2014-5170</Order ID>
+    <Order Date>31-12-2014</Order Date>
+    <Ship Date>04-01-2015</Ship Date>
+    <Ship Mode>Second Class</Ship Mode>
+    <Customer ID>VD-11670</Customer ID>
+    <Customer Name>Valerie Dominguez</Customer Name>
+    <Segment>Consumer</Segment>
+    <City>Konya</City>
+    <State>Konya</State>
+    <Country>Turkey</Country>
+    <Postal Code></Postal Code>
+    <Market>EMEA</Market>
+    <Region>EMEA</Region>
+    <Product ID>TEC-SAN-10004215</Product ID>
+    <Category>Technology</Category>
+    <Sub-Category>Accessories</Sub-Category>
+    <Product Name>SanDisk Keyboard, Bluetooth</Product Name>
+    <Sales>32.592</Sales>
+    <Quantity>1</Quantity>
+    <Discount>0.6</Discount>
+    <Profit>-25.278</Profit>
+    <Shipping Cost>3.4</Shipping Cost>
+    <Order Priority>Medium</Order Priority>
+  </row>
+  <row>
+    <RowID>53</RowID>
+    <Order ID>TU-2014-5170</Order ID>
+    <Order Date>31-12-2014</Order Date>
+    <Ship Date>04-01-2015</Ship Date>
+    <Ship Mode>Second Class</Ship Mode>
+    <Customer ID>VD-11670</Customer ID>
+    <Customer Name>Valerie Dominguez</Customer Name>
+    <Segment>Consumer</Segment>
+    <City>Konya</City>
+    <State>Konya</State>
+    <Country>Turkey</Country>
+    <Postal Code></Postal Code>
+    <Market>EMEA</Market>
+    <Region>EMEA</Region>
+    <Product ID>FUR-TEN-10000558</Product ID>
+    <Category>Furniture</Category>
+    <Sub-Category>Furnishings</Sub-Category>
+    <Product Name>Tenex Frame, Erganomic</Product Name>
+    <Sales>173.76</Sales>
+    <Quantity>4</Quantity>
+    <Discount>0.6</Discount>
+    <Profit>-117.36</Profit>
+    <Shipping Cost>13.72</Shipping Cost>
+    <Order Priority>Medium</Order Priority>
+  </row>
+  <row>
+    <RowID>54</RowID>
+    <Order ID>OD-2014-9490</Order ID>
+    <Order Date>31-12-2014</Order Date>
+    <Ship Date>05-01-2015</Ship Date>
+    <Ship Mode>Standard Class</Ship Mode>
+    <Customer ID>MW-8235</Customer ID>
+    <Customer Name>Mitch Willingham</Customer Name>
+    <Segment>Corporate</Segment>
+    <City>Juba</City>
+    <State>Central Equatoria</State>
+    <Country>South Sudan</Country>
+    <Postal Code></Postal Code>
+    <Market>Africa</Market>
+    <Region>Africa</Region>
+    <Product ID>TEC-CAN-10004291</Product ID>
+    <Category>Technology</Category>
+    <Sub-Category>Copiers</Sub-Category>
+    <Product Name>Canon Wireless Fax, Digital</Product Name>
+    <Sales>378.3</Sales>
+    <Quantity>1</Quantity>
+    <Discount>0</Discount>
+    <Profit>166.44</Profit>
+    <Shipping Cost>11.71</Shipping Cost>
+    <Order Priority>Medium</Order Priority>
+  </row>
+  <row>
+    <RowID>55</RowID>
+    <Order ID>RS-2014-1460</Order ID>
+    <Order Date>31-12-2014</Order Date>
+    <Ship Date>02-01-2015</Ship Date>
+    <Ship Mode>Second Class</Ship Mode>
+    <Customer ID>PB-9105</Customer ID>
+    <Customer Name>Peter Bühler</Customer Name>
+    <Segment>Consumer</Segment>
+    <City>Ufa</City>
+    <State>Bashkortostan</State>
+    <Country>Russia</Country>
+    <Postal Code></Postal Code>
+    <Market>EMEA</Market>
+    <Region>EMEA</Region>
+    <Product ID>TEC-HEW-10004652</Product ID>
+    <Category>Technology</Category>
+    <Sub-Category>Copiers</Sub-Category>
+    <Product Name>Hewlett Personal Copier, Laser</Product Name>
+    <Sales>865.62</Sales>
+    <Quantity>6</Quantity>
+    <Discount>0</Discount>
+    <Profit>51.84</Profit>
+    <Shipping Cost>138.18</Shipping Cost>
+    <Order Priority>High</Order Priority>
+  </row>
+  <row>
+    <RowID>56</RowID>
+    <Order ID>RS-2014-1460</Order ID>
+    <Order Date>31-12-2014</Order Date>
+    <Ship Date>02-01-2015</Ship Date>
+    <Ship Mode>Second Class</Ship Mode>
+    <Customer ID>PB-9105</Customer ID>
+    <Customer Name>Peter Bühler</Customer Name>
+    <Segment>Consumer</Segment>
+    <City>Ufa</City>
+    <State>Bashkortostan</State>
+    <Country>Russia</Country>
+    <Postal Code></Postal Code>
+    <Market>EMEA</Market>
+    <Region>EMEA</Region>
+    <Product ID>FUR-RUB-10004420</Product ID>
+    <Category>Furniture</Category>
+    <Sub-Category>Furnishings</Sub-Category>
+    <Product Name>Rubbermaid Door Stop, Black</Product Name>
+    <Sales>43.8</Sales>
+    <Quantity>1</Quantity>
+    <Discount>0</Discount>
+    <Profit>13.56</Profit>
+    <Shipping Cost>9.81</Shipping Cost>
+    <Order Priority>High</Order Priority>
+  </row>
+  <row>
+    <RowID>57</RowID>
+    <Order ID>AO-2014-7730</Order ID>
+    <Order Date>31-12-2014</Order Date>
+    <Ship Date>04-01-2015</Ship Date>
+    <Ship Mode>Standard Class</Ship Mode>
+    <Customer ID>KL-6645</Customer ID>
+    <Customer Name>Ken Lonsdale</Customer Name>
+    <Segment>Consumer</Segment>
+    <City>Luanda</City>
+    <State>Luanda</State>
+    <Country>Angola</Country>
+    <Postal Code></Postal Code>
+    <Market>Africa</Market>
+    <Region>Africa</Region>
+    <Product ID>OFF-SAN-10001094</Product ID>
+    <Category>Office Supplies</Category>
+    <Sub-Category>Paper</Sub-Category>
+    <Product Name>SanDisk Memo Slips, 8.5 x 11</Product Name>
+    <Sales>126.72</Sales>
+    <Quantity>6</Quantity>
+    <Discount>0</Discount>
+    <Profit>20.16</Profit>
+    <Shipping Cost>11.5</Shipping Cost>
+    <Order Priority>High</Order Priority>
+  </row>
+  <row>
+    <RowID>58</RowID>
+    <Order ID>UP-2014-4410</Order ID>
+    <Order Date>31-12-2014</Order Date>
+    <Ship Date>04-01-2015</Ship Date>
+    <Ship Mode>Standard Class</Ship Mode>
+    <Customer ID>GT-4755</Customer ID>
+    <Customer Name>Guy Thornton</Customer Name>
+    <Segment>Consumer</Segment>
+    <City>Zaporizhzhya</City>
+    <State>Zaporizhzhya</State>
+    <Country>Ukraine</Country>
+    <Postal Code></Postal Code>
+    <Market>EMEA</Market>
+    <Region>EMEA</Region>
+    <Product ID>OFF-AVE-10003558</Product ID>
+    <Category>Office Supplies</Category>
+    <Sub-Category>Labels</Sub-Category>
+    <Product Name>Avery Round Labels, Alphabetical</Product Name>
+    <Sales>27.84</Sales>
+    <Quantity>4</Quantity>
+    <Discount>0</Discount>
+    <Profit>6.12</Profit>
+    <Shipping Cost>1.7</Shipping Cost>
+    <Order Priority>Medium</Order Priority>
+  </row>
+  <row>
+    <RowID>59</RowID>
+    <Order ID>MO-2014-2560</Order ID>
+    <Order Date>31-12-2014</Order Date>
+    <Ship Date>05-01-2015</Ship Date>
+    <Ship Mode>Standard Class</Ship Mode>
+    <Customer ID>LP-7095</Customer ID>
+    <Customer Name>Liz Preis</Customer Name>
+    <Segment>Consumer</Segment>
+    <City>Agadir</City>
+    <State>Souss-Massa-Draâ</State>
+    <Country>Morocco</Country>
+    <Postal Code></Postal Code>
+    <Market>Africa</Market>
+    <Region>Africa</Region>
+    <Product ID>OFF-WIL-10001069</Product ID>
+    <Category>Office Supplies</Category>
+    <Sub-Category>Binders</Sub-Category>
+    <Product Name>Wilson Jones Hole Reinforcements, Clear</Product Name>
+    <Sales>3.99</Sales>
+    <Quantity>1</Quantity>
+    <Discount>0</Discount>
+    <Profit>0.42</Profit>
+    <Shipping Cost>0.49</Shipping Cost>
+    <Order Priority>Medium</Order Priority>
+  </row>
+  <row>
+    <RowID>60</RowID>
+    <Order ID>UP-2014-3330</Order ID>
+    <Order Date>31-12-2014</Order Date>
+    <Ship Date>02-01-2015</Ship Date>
+    <Ship Mode>First Class</Ship Mode>
+    <Customer ID>FW-4395</Customer ID>
+    <Customer Name>Fred Wasserman</Customer Name>
+    <Segment>Corporate</Segment>
+    <City>Mykolayiv</City>
+    <State>Mykolayiv</State>
+    <Country>Ukraine</Country>
+    <Postal Code></Postal Code>
+    <Market>EMEA</Market>
+    <Region>EMEA</Region>
+    <Product ID>OFF-OIC-10004536</Product ID>
+    <Category>Office Supplies</Category>
+    <Sub-Category>Fasteners</Sub-Category>
+    <Product Name>OIC Thumb Tacks, Assorted Sizes</Product Name>
+    <Sales>138.24</Sales>
+    <Quantity>12</Quantity>
+    <Discount>0</Discount>
+    <Profit>55.08</Profit>
+    <Shipping Cost>8.03</Shipping Cost>
+    <Order Priority>Medium</Order Priority>
+  </row>
+  <row>
+    <RowID>61</RowID>
+    <Order ID>TZ-2014-8220</Order ID>
+    <Order Date>31-12-2014</Order Date>
+    <Ship Date>06-01-2015</Ship Date>
+    <Ship Mode>Standard Class</Ship Mode>
+    <Customer ID>CK-2325</Customer ID>
+    <Customer Name>Christine Kargatis</Customer Name>
+    <Segment>Home Office</Segment>
+    <City>Dar es Salaam</City>
+    <State>Dar Es Salaam</State>
+    <Country>Tanzania</Country>
+    <Postal Code></Postal Code>
+    <Market>Africa</Market>
+    <Region>Africa</Region>
+    <Product ID>OFF-HAR-10001531</Product ID>
+    <Category>Office Supplies</Category>
+    <Sub-Category>Labels</Sub-Category>
+    <Product Name>Harbour Creations Removable Labels, Adjustable</Product Name>
+    <Sales>49.5</Sales>
+    <Quantity>6</Quantity>
+    <Discount>0</Discount>
+    <Profit>6.84</Profit>
+    <Shipping Cost>2.15</Shipping Cost>
+    <Order Priority>Medium</Order Priority>
+  </row>
+  <row>
+    <RowID>62</RowID>
+    <Order ID>TZ-2014-8350</Order ID>
+    <Order Date>31-12-2014</Order Date>
+    <Ship Date>03-01-2015</Ship Date>
+    <Ship Mode>First Class</Ship Mode>
+    <Customer ID>JA-5970</Customer ID>
+    <Customer Name>Joseph Airdo</Customer Name>
+    <Segment>Consumer</Segment>
+    <City>Dar es Salaam</City>
+    <State>Dar Es Salaam</State>
+    <Country>Tanzania</Country>
+    <Postal Code></Postal Code>
+    <Market>Africa</Market>
+    <Region>Africa</Region>
+    <Product ID>OFF-FEL-10001792</Product ID>
+    <Category>Office Supplies</Category>
+    <Sub-Category>Storage</Sub-Category>
+    <Product Name>Fellowes Folders, Wire Frame</Product Name>
+    <Sales>22.923</Sales>
+    <Quantity>1</Quantity>
+    <Discount>0.1</Discount>
+    <Profit>4.053</Profit>
+    <Shipping Cost>6.11</Shipping Cost>
+    <Order Priority>High</Order Priority>
+  </row>
+  <row>
+    <RowID>63</RowID>
+    <Order ID>MX-2014-167682</Order ID>
+    <Order Date>30-12-2014</Order Date>
+    <Ship Date>03-01-2015</Ship Date>
+    <Ship Mode>Standard Class</Ship Mode>
+    <Customer ID>JF-15565</Customer ID>
+    <Customer Name>Jill Fjeld</Customer Name>
+    <Segment>Consumer</Segment>
+    <City>Castanhal</City>
+    <State>Pará</State>
+    <Country>Brazil</Country>
+    <Postal Code></Postal Code>
+    <Market>LATAM</Market>
+    <Region>South</Region>
+    <Product ID>OFF-FA-10003911</Product ID>
+    <Category>Office Supplies</Category>
+    <Sub-Category>Fasteners</Sub-Category>
+    <Product Name>Advantus Clamps, Assorted Sizes</Product Name>
+    <Sales>44.64</Sales>
+    <Quantity>4</Quantity>
+    <Discount>0</Discount>
+    <Profit>3.52</Profit>
+    <Shipping Cost>4.11</Shipping Cost>
+    <Order Priority>High</Order Priority>
+  </row>
+  <row>
+    <RowID>64</RowID>
+    <Order ID>MX-2014-167682</Order ID>
+    <Order Date>30-12-2014</Order Date>
+    <Ship Date>03-01-2015</Ship Date>
+    <Ship Mode>Standard Class</Ship Mode>
+    <Customer ID>JF-15565</Customer ID>
+    <Customer Name>Jill Fjeld</Customer Name>
+    <Segment>Consumer</Segment>
+    <City>Castanhal</City>
+    <State>Pará</State>
+    <Country>Brazil</Country>
+    <Postal Code></Postal Code>
+    <Market>LATAM</Market>
+    <Region>South</Region>
+    <Product ID>FUR-BO-10003873</Product ID>
+    <Category>Furniture</Category>
+    <Sub-Category>Bookcases</Sub-Category>
+    <Product Name>Safco Library with Doors, Mobile</Product Name>
+    <Sales>1830.78</Sales>
+    <Quantity>7</Quantity>
+    <Discount>0</Discount>
+    <Profit>768.88</Profit>
+    <Shipping Cost>155.85</Shipping Cost>
+    <Order Priority>High</Order Priority>
+  </row>
+  <row>
+    <RowID>65</RowID>
+    <Order ID>US-2014-117422</Order ID>
+    <Order Date>30-12-2014</Order Date>
+    <Ship Date>03-01-2015</Ship Date>
+    <Ship Mode>Standard Class</Ship Mode>
+    <Customer ID>TT-21265</Customer ID>
+    <Customer Name>Tim Taslimi</Customer Name>
+    <Segment>Corporate</Segment>
+    <City>Santiago de los Caballeros</City>
+    <State>Santiago</State>
+    <Country>Dominican Republic</Country>
+    <Postal Code></Postal Code>
+    <Market>LATAM</Market>
+    <Region>Caribbean</Region>
+    <Product ID>OFF-BI-10002455</Product ID>
+    <Category>Office Supplies</Category>
+    <Sub-Category>Binders</Sub-Category>
+    <Product Name>Acco 3-Hole Punch, Durable</Product Name>
+    <Sales>16.864</Sales>
+    <Quantity>1</Quantity>
+    <Discount>0.2</Discount>
+    <Profit>-1.056</Profit>
+    <Shipping Cost>1.97</Shipping Cost>
+    <Order Priority>High</Order Priority>
+  </row>
+  <row>
+    <RowID>66</RowID>
+    <Order ID>MX-2014-113292</Order ID>
+    <Order Date>30-12-2014</Order Date>
+    <Ship Date>03-01-2015</Ship Date>
+    <Ship Mode>Standard Class</Ship Mode>
+    <Customer ID>EB-13975</Customer ID>
+    <Customer Name>Erica Bern</Customer Name>
+    <Segment>Corporate</Segment>
+    <City>Tijuana</City>
+    <State>Baja California</State>
+    <Country>Mexico</Country>
+    <Postal Code></Postal Code>
+    <Market>LATAM</Market>
+    <Region>North</Region>
+    <Product ID>FUR-FU-10001711</Product ID>
+    <Category>Furniture</Category>
+    <Sub-Category>Furnishings</Sub-Category>
+    <Product Name>Tenex Frame, Erganomic</Product Name>
+    <Sales>217.2</Sales>
+    <Quantity>5</Quantity>
+    <Discount>0.4</Discount>
+    <Profit>25.3</Profit>
+    <Shipping Cost>16.43</Shipping Cost>
+    <Order Priority>Medium</Order Priority>
+  </row>
+  <row>
+    <RowID>67</RowID>
+    <Order ID>MX-2014-113292</Order ID>
+    <Order Date>30-12-2014</Order Date>
+    <Ship Date>03-01-2015</Ship Date>
+    <Ship Mode>Standard Class</Ship Mode>
+    <Customer ID>EB-13975</Customer ID>
+    <Customer Name>Erica Bern</Customer Name>
+    <Segment>Corporate</Segment>
+    <City>Tijuana</City>
+    <State>Baja California</State>
+    <Country>Mexico</Country>
+    <Postal Code></Postal Code>
+    <Market>LATAM</Market>
+    <Region>North</Region>
+    <Product ID>OFF-FA-10003659</Product ID>
+    <Category>Office Supplies</Category>
+    <Sub-Category>Fasteners</Sub-Category>
+    <Product Name>Accos Paper Clips, Assorted Sizes</Product Name>
+    <Sales>38.3</Sales>
+    <Quantity>5</Quantity>
+    <Discount>0</Discount>
+    <Profit>0</Profit>
+    <Shipping Cost>1.97</Shipping Cost>
+    <Order Priority>Medium</Order Priority>
+  </row>
+  <row>
+    <RowID>68</RowID>
+    <Order ID>MX-2014-151974</Order ID>
+    <Order Date>30-12-2014</Order Date>
+    <Ship Date>03-01-2015</Ship Date>
+    <Ship Mode>Standard Class</Ship Mode>
+    <Customer ID>KB-16600</Customer ID>
+    <Customer Name>Ken Brennan</Customer Name>
+    <Segment>Corporate</Segment>
+    <City>San Salvador</City>
+    <State>San Salvador</State>
+    <Country>El Salvador</Country>
+    <Postal Code></Postal Code>
+    <Market>LATAM</Market>
+    <Region>Central</Region>
+    <Product ID>FUR-BO-10001867</Product ID>
+    <Category>Furniture</Category>
+    <Sub-Category>Bookcases</Sub-Category>
+    <Product Name>Dania Corner Shelving, Mobile</Product Name>
+    <Sales>166.12</Sales>
+    <Quantity>2</Quantity>
+    <Discount>0</Discount>
+    <Profit>44.84</Profit>
+    <Shipping Cost>18.64</Shipping Cost>
+    <Order Priority>High</Order Priority>
+  </row>
+  <row>
+    <RowID>69</RowID>
+    <Order ID>MX-2014-124359</Order ID>
+    <Order Date>30-12-2014</Order Date>
+    <Ship Date>03-01-2015</Ship Date>
+    <Ship Mode>Standard Class</Ship Mode>
+    <Customer ID>JB-16000</Customer ID>
+    <Customer Name>Joy Bell-</Customer Name>
+    <Segment>Consumer</Segment>
+    <City>Ciego de Ávila</City>
+    <State>Ciego de Ávila</State>
+    <Country>Cuba</Country>
+    <Postal Code></Postal Code>
+    <Market>LATAM</Market>
+    <Region>Caribbean</Region>
+    <Product ID>OFF-SU-10004659</Product ID>
+    <Category>Office Supplies</Category>
+    <Sub-Category>Supplies</Sub-Category>
+    <Product Name>Elite Letter Opener, Easy Grip</Product Name>
+    <Sales>173.52</Sales>
+    <Quantity>9</Quantity>
+    <Discount>0</Discount>
+    <Profit>29.34</Profit>
+    <Shipping Cost>13.47</Shipping Cost>
+    <Order Priority>Medium</Order Priority>
+  </row>
+  <row>
+    <RowID>70</RowID>
+    <Order ID>MX-2014-160626</Order ID>
+    <Order Date>30-12-2014</Order Date>
+    <Ship Date>05-01-2015</Ship Date>
+    <Ship Mode>Standard Class</Ship Mode>
+    <Customer ID>CS-12400</Customer ID>
+    <Customer Name>Christopher Schild</Customer Name>
+    <Segment>Home Office</Segment>
+    <City>Managua</City>
+    <State>Managua</State>
+    <Country>Nicaragua</Country>
+    <Postal Code></Postal Code>
+    <Market>LATAM</Market>
+    <Region>Central</Region>
+    <Product ID>OFF-AR-10002499</Product ID>
+    <Category>Office Supplies</Category>
+    <Sub-Category>Art</Sub-Category>
+    <Product Name>Binney &amp; Smith Pencil Sharpener, Easy-Erase</Product Name>
+    <Sales>167.58</Sales>
+    <Quantity>9</Quantity>
+    <Discount>0</Discount>
+    <Profit>77.04</Profit>
+    <Shipping Cost>10.84</Shipping Cost>
+    <Order Priority>Medium</Order Priority>
+  </row>
+  <row>
+    <RowID>71</RowID>
+    <Order ID>MX-2014-110324</Order ID>
+    <Order Date>30-12-2014</Order Date>
+    <Ship Date>01-01-2015</Ship Date>
+    <Ship Mode>Second Class</Ship Mode>
+    <Customer ID>GP-14740</Customer ID>
+    <Customer Name>Guy Phonely</Customer Name>
+    <Segment>Corporate</Segment>
+    <City>Torreón</City>
+    <State>Coahuila</State>
+    <Country>Mexico</Country>
+    <Postal Code></Postal Code>
+    <Market>LATAM</Market>
+    <Region>North</Region>
+    <Product ID>OFF-PA-10003911</Product ID>
+    <Category>Office Supplies</Category>
+    <Sub-Category>Paper</Sub-Category>
+    <Product Name>Green Bar Cards &amp; Envelopes, Premium</Product Name>
+    <Sales>161.3</Sales>
+    <Quantity>5</Quantity>
+    <Discount>0</Discount>
+    <Profit>6.4</Profit>
+    <Shipping Cost>4.88</Shipping Cost>
+    <Order Priority>Medium</Order Priority>
+  </row>
+  <row>
+    <RowID>72</RowID>
+    <Order ID>ES-2014-5710826</Order ID>
+    <Order Date>30-12-2014</Order Date>
+    <Ship Date>02-01-2015</Ship Date>
+    <Ship Mode>Second Class</Ship Mode>
+    <Customer ID>MB-17305</Customer ID>
+    <Customer Name>Maria Bertelson</Customer Name>
+    <Segment>Consumer</Segment>
+    <City>Bourges</City>
+    <State>Centre</State>
+    <Country>France</Country>
+    <Postal Code></Postal Code>
+    <Market>EU</Market>
+    <Region>Central</Region>
+    <Product ID>FUR-BO-10003541</Product ID>
+    <Category>Furniture</Category>
+    <Sub-Category>Bookcases</Sub-Category>
+    <Product Name>Bush Classic Bookcase, Metal</Product Name>
+    <Sales>370.926</Sales>
+    <Quantity>1</Quantity>
+    <Discount>0.1</Discount>
+    <Profit>98.886</Profit>
+    <Shipping Cost>56.89</Shipping Cost>
+    <Order Priority>High</Order Priority>
+  </row>
+  <row>
+    <RowID>73</RowID>
+    <Order ID>ES-2014-1271577</Order ID>
+    <Order Date>30-12-2014</Order Date>
+    <Ship Date>03-01-2015</Ship Date>
+    <Ship Mode>Standard Class</Ship Mode>
+    <Customer ID>PW-19240</Customer ID>
+    <Customer Name>Pierre Wener</Customer Name>
+    <Segment>Consumer</Segment>
+    <City>Evry</City>
+    <State>Ile-de-France</State>
+    <Country>France</Country>
+    <Postal Code></Postal Code>
+    <Market>EU</Market>
+    <Region>Central</Region>
+    <Product ID>OFF-LA-10004859</Product ID>
+    <Category>Office Supplies</Category>
+    <Sub-Category>Labels</Sub-Category>
+    <Product Name>Avery Legal Exhibit Labels, Alphabetical</Product Name>
+    <Sales>44.64</Sales>
+    <Quantity>4</Quantity>
+    <Discount>0</Discount>
+    <Profit>9.72</Profit>
+    <Shipping Cost>2.59</Shipping Cost>
+    <Order Priority>Medium</Order Priority>
+  </row>
+  <row>
+    <RowID>74</RowID>
+    <Order ID>ES-2014-1271577</Order ID>
+    <Order Date>30-12-2014</Order Date>
+    <Ship Date>03-01-2015</Ship Date>
+    <Ship Mode>Standard Class</Ship Mode>
+    <Customer ID>PW-19240</Customer ID>
+    <Customer Name>Pierre Wener</Customer Name>
+    <Segment>Consumer</Segment>
+    <City>Evry</City>
+    <State>Ile-de-France</State>
+    <Country>France</Country>
+    <Postal Code></Postal Code>
+    <Market>EU</Market>
+    <Region>Central</Region>
+    <Product ID>OFF-ST-10004046</Product ID>
+    <Category>Office Supplies</Category>
+    <Sub-Category>Storage</Sub-Category>
+    <Product Name>Fellowes Box, Single Width</Product Name>
+    <Sales>70.956</Sales>
+    <Quantity>4</Quantity>
+    <Discount>0.1</Discount>
+    <Profit>-3.204</Profit>
+    <Shipping Cost>4.17</Shipping Cost>
+    <Order Priority>Medium</Order Priority>
+  </row>
+  <row>
+    <RowID>75</RowID>
+    <Order ID>ES-2014-1271577</Order ID>
+    <Order Date>30-12-2014</Order Date>
+    <Ship Date>03-01-2015</Ship Date>
+    <Ship Mode>Standard Class</Ship Mode>
+    <Customer ID>PW-19240</Customer ID>
+    <Customer Name>Pierre Wener</Customer Name>
+    <Segment>Consumer</Segment>
+    <City>Evry</City>
+    <State>Ile-de-France</State>
+    <Country>France</Country>
+    <Postal Code></Postal Code>
+    <Market>EU</Market>
+    <Region>Central</Region>
+    <Product ID>OFF-BI-10000289</Product ID>
+    <Category>Office Supplies</Category>
+    <Sub-Category>Binders</Sub-Category>
+    <Product Name>Wilson Jones Binder Covers, Recycled</Product Name>
+    <Sales>80.85</Sales>
+    <Quantity>7</Quantity>
+    <Discount>0</Discount>
+    <Profit>19.32</Profit>
+    <Shipping Cost>2.01</Shipping Cost>
+    <Order Priority>Medium</Order Priority>
+  </row>
+  <row>
+    <RowID>76</RowID>
+    <Order ID>ES-2014-1083419</Order ID>
+    <Order Date>30-12-2014</Order Date>
+    <Ship Date>03-01-2015</Ship Date>
+    <Ship Mode>Standard Class</Ship Mode>
+    <Customer ID>FH-14350</Customer ID>
+    <Customer Name>Fred Harton</Customer Name>
+    <Segment>Consumer</Segment>
+    <City>Plymouth</City>
+    <State>England</State>
+    <Country>United Kingdom</Country>
+    <Postal Code></Postal Code>
+    <Market>EU</Market>
+    <Region>North</Region>
+    <Product ID>OFF-ST-10004046</Product ID>
+    <Category>Office Supplies</Category>
+    <Sub-Category>Storage</Sub-Category>
+    <Product Name>Fellowes Box, Single Width</Product Name>
+    <Sales>39.42</Sales>
+    <Quantity>2</Quantity>
+    <Discount>0</Discount>
+    <Profit>2.34</Profit>
+    <Shipping Cost>6.02</Shipping Cost>
+    <Order Priority>High</Order Priority>
+  </row>
+  <row>
+    <RowID>77</RowID>
+    <Order ID>ES-2014-5329777</Order ID>
+    <Order Date>30-12-2014</Order Date>
+    <Ship Date>02-01-2015</Ship Date>
+    <Ship Mode>First Class</Ship Mode>
+    <Customer ID>CD-11980</Customer ID>
+    <Customer Name>Carol Darley</Customer Name>
+    <Segment>Consumer</Segment>
+    <City>Southampton</City>
+    <State>England</State>
+    <Country>United Kingdom</Country>
+    <Postal Code></Postal Code>
+    <Market>EU</Market>
+    <Region>North</Region>
+    <Product ID>TEC-CO-10000228</Product ID>
+    <Category>Technology</Category>
+    <Sub-Category>Copiers</Sub-Category>
+    <Product Name>Hewlett Personal Copier, Laser</Product Name>
+    <Sales>288.54</Sales>
+    <Quantity>2</Quantity>
+    <Discount>0</Discount>
+    <Profit>17.28</Profit>
+    <Shipping Cost>14.22</Shipping Cost>
+    <Order Priority>High</Order Priority>
+  </row>
+  <row>
+    <RowID>78</RowID>
+    <Order ID>ES-2014-5329048</Order ID>
+    <Order Date>30-12-2014</Order Date>
+    <Ship Date>04-01-2015</Ship Date>
+    <Ship Mode>Standard Class</Ship Mode>
+    <Customer ID>ZD-21925</Customer ID>
+    <Customer Name>Zuschuss Donatelli</Customer Name>
+    <Segment>Consumer</Segment>
+    <City>Rouen</City>
+    <State>Upper Normandy</State>
+    <Country>France</Country>
+    <Postal Code></Postal Code>
+    <Market>EU</Market>
+    <Region>Central</Region>
+    <Product ID>OFF-ST-10002659</Product ID>
+    <Category>Office Supplies</Category>
+    <Sub-Category>Storage</Sub-Category>
+    <Product Name>Smead Shelving, Wire Frame</Product Name>
+    <Sales>216</Sales>
+    <Quantity>5</Quantity>
+    <Discount>0.1</Discount>
+    <Profit>86.4</Profit>
+    <Shipping Cost>15.55</Shipping Cost>
+    <Order Priority>Medium</Order Priority>
+  </row>
+  <row>
+    <RowID>79</RowID>
+    <Order ID>ES-2014-5329048</Order ID>
+    <Order Date>30-12-2014</Order Date>
+    <Ship Date>04-01-2015</Ship Date>
+    <Ship Mode>Standard Class</Ship Mode>
+    <Customer ID>ZD-21925</Customer ID>
+    <Customer Name>Zuschuss Donatelli</Customer Name>
+    <Segment>Consumer</Segment>
+    <City>Rouen</City>
+    <State>Upper Normandy</State>
+    <Country>France</Country>
+    <Postal Code></Postal Code>
+    <Market>EU</Market>
+    <Region>Central</Region>
+    <Product ID>FUR-TA-10002557</Product ID>
+    <Category>Furniture</Category>
+    <Sub-Category>Tables</Sub-Category>
+    <Product Name>Barricks Conference Table, Rectangular</Product Name>
+    <Sales>588.0225</Sales>
+    <Quantity>1</Quantity>
+    <Discount>0.35</Discount>
+    <Profit>-27.1575</Profit>
+    <Shipping Cost>36.25</Shipping Cost>
+    <Order Priority>Medium</Order Priority>
+  </row>
+  <row>
+    <RowID>80</RowID>
+    <Order ID>ES-2014-5329048</Order ID>
+    <Order Date>30-12-2014</Order Date>
+    <Ship Date>04-01-2015</Ship Date>
+    <Ship Mode>Standard Class</Ship Mode>
+    <Customer ID>ZD-21925</Customer ID>
+    <Customer Name>Zuschuss Donatelli</Customer Name>
+    <Segment>Consumer</Segment>
+    <City>Rouen</City>
+    <State>Upper Normandy</State>
+    <Country>France</Country>
+    <Postal Code></Postal Code>
+    <Market>EU</Market>
+    <Region>Central</Region>
+    <Product ID>FUR-BO-10004914</Product ID>
+    <Category>Furniture</Category>
+    <Sub-Category>Bookcases</Sub-Category>
+    <Product Name>Bush 3-Shelf Cabinet, Traditional</Product Name>
+    <Sales>129.033</Sales>
+    <Quantity>1</Quantity>
+    <Discount>0.1</Discount>
+    <Profit>17.193</Profit>
+    <Shipping Cost>14.29</Shipping Cost>
+    <Order Priority>Medium</Order Priority>
+  </row>
+  <row>
+    <RowID>81</RowID>
+    <Order ID>ES-2014-4134163</Order ID>
+    <Order Date>30-12-2014</Order Date>
+    <Ship Date>04-01-2015</Ship Date>
+    <Ship Mode>Standard Class</Ship Mode>
+    <Customer ID>ML-17755</Customer ID>
+    <Customer Name>Max Ludwig</Customer Name>
+    <Segment>Home Office</Segment>
+    <City>Edinburgh</City>
+    <State>Scotland</State>
+    <Country>United Kingdom</Country>
+    <Postal Code></Postal Code>
+    <Market>EU</Market>
+    <Region>North</Region>
+    <Product ID>FUR-CH-10001674</Product ID>
+    <Category>Furniture</Category>
+    <Sub-Category>Chairs</Sub-Category>
+    <Product Name>Office Star Chairmat, Adjustable</Product Name>
+    <Sales>68.31</Sales>
+    <Quantity>1</Quantity>
+    <Discount>0</Discount>
+    <Profit>26.64</Profit>
+    <Shipping Cost>4.39</Shipping Cost>
+    <Order Priority>Medium</Order Priority>
+  </row>
+  <row>
+    <RowID>82</RowID>
+    <Order ID>ES-2014-3776783</Order ID>
+    <Order Date>30-12-2014</Order Date>
+    <Ship Date>04-01-2015</Ship Date>
+    <Ship Mode>Standard Class</Ship Mode>
+    <Customer ID>TC-21475</Customer ID>
+    <Customer Name>Tony Chapman</Customer Name>
+    <Segment>Home Office</Segment>
+    <City>Munich</City>
+    <State>Bavaria</State>
+    <Country>Germany</Country>
+    <Postal Code></Postal Code>
+    <Market>EU</Market>
+    <Region>Central</Region>
+    <Product ID>FUR-FU-10000388</Product ID>
+    <Category>Furniture</Category>
+    <Sub-Category>Furnishings</Sub-Category>
+    <Product Name>Rubbermaid Door Stop, Erganomic</Product Name>
+    <Sales>84.84</Sales>
+    <Quantity>2</Quantity>
+    <Discount>0</Discount>
+    <Profit>12.72</Profit>
+    <Shipping Cost>9.03</Shipping Cost>
+    <Order Priority>Medium</Order Priority>
+  </row>
+  <row>
+    <RowID>83</RowID>
+    <Order ID>ES-2014-3704704</Order ID>
+    <Order Date>30-12-2014</Order Date>
+    <Ship Date>01-01-2015</Ship Date>
+    <Ship Mode>First Class</Ship Mode>
+    <Customer ID>JK-15370</Customer ID>
+    <Customer Name>Jay Kimmel</Customer Name>
+    <Segment>Consumer</Segment>
+    <City>Saint-Denis</City>
+    <State>Ile-de-France</State>
+    <Country>France</Country>
+    <Postal Code></Postal Code>
+    <Market>EU</Market>
+    <Region>Central</Region>
+    <Product ID>OFF-EN-10002008</Product ID>
+    <Category>Office Supplies</Category>
+    <Sub-Category>Envelopes</Sub-Category>
+    <Product Name>Cameo Mailers, Recycled</Product Name>
+    <Sales>147.84</Sales>
+    <Quantity>4</Quantity>
+    <Discount>0</Discount>
+    <Profit>33.96</Profit>
+    <Shipping Cost>6.16</Shipping Cost>
+    <Order Priority>Medium</Order Priority>
+  </row>
+  <row>
+    <RowID>84</RowID>
+    <Order ID>IT-2014-5517515</Order ID>
+    <Order Date>30-12-2014</Order Date>
+    <Ship Date>01-01-2015</Ship Date>
+    <Ship Mode>First Class</Ship Mode>
+    <Customer ID>JC-15775</Customer ID>
+    <Customer Name>John Castell</Customer Name>
+    <Segment>Consumer</Segment>
+    <City>The Hague</City>
+    <State>South Holland</State>
+    <Country>Netherlands</Country>
+    <Postal Code></Postal Code>
+    <Market>EU</Market>
+    <Region>Central</Region>
+    <Product ID>OFF-AP-10001138</Product ID>
+    <Category>Office Supplies</Category>
+    <Sub-Category>Appliances</Sub-Category>
+    <Product Name>Cuisinart Blender, Silver</Product Name>
+    <Sales>67.74</Sales>
+    <Quantity>2</Quantity>
+    <Discount>0.5</Discount>
+    <Profit>-62.34</Profit>
+    <Shipping Cost>13.9</Shipping Cost>
+    <Order Priority>High</Order Priority>
+  </row>
+  <row>
+    <RowID>85</RowID>
+    <Order ID>ES-2014-4443552</Order ID>
+    <Order Date>30-12-2014</Order Date>
+    <Ship Date>05-01-2015</Ship Date>
+    <Ship Mode>Standard Class</Ship Mode>
+    <Customer ID>FH-14365</Customer ID>
+    <Customer Name>Fred Hopkins</Customer Name>
+    <Segment>Corporate</Segment>
+    <City>Naples</City>
+    <State>Campania</State>
+    <Country>Italy</Country>
+    <Postal Code></Postal Code>
+    <Market>EU</Market>
+    <Region>South</Region>
+    <Product ID>OFF-BI-10001639</Product ID>
+    <Category>Office Supplies</Category>
+    <Sub-Category>Binders</Sub-Category>
+    <Product Name>Acco Binder, Economy</Product Name>
+    <Sales>45.45</Sales>
+    <Quantity>3</Quantity>
+    <Discount>0</Discount>
+    <Profit>6.3</Profit>
+    <Shipping Cost>3.99</Shipping Cost>
+    <Order Priority>Medium</Order Priority>
+  </row>
+  <row>
+    <RowID>86</RowID>
+    <Order ID>ES-2014-4675868</Order ID>
+    <Order Date>30-12-2014</Order Date>
+    <Ship Date>02-01-2015</Ship Date>
+    <Ship Mode>First Class</Ship Mode>
+    <Customer ID>HM-14860</Customer ID>
+    <Customer Name>Harry Marie</Customer Name>
+    <Segment>Corporate</Segment>
+    <City>Basel</City>
+    <State>Basel-Stadt</State>
+    <Country>Switzerland</Country>
+    <Postal Code></Postal Code>
+    <Market>EU</Market>
+    <Region>Central</Region>
+    <Product ID>TEC-PH-10000070</Product ID>
+    <Category>Technology</Category>
+    <Sub-Category>Phones</Sub-Category>
+    <Product Name>Nokia Headset, with Caller ID</Product Name>
+    <Sales>292.44</Sales>
+    <Quantity>4</Quantity>
+    <Discount>0</Discount>
+    <Profit>35.04</Profit>
+    <Shipping Cost>69.63</Shipping Cost>
+    <Order Priority>Critical</Order Priority>
+  </row>
+  <row>
+    <RowID>87</RowID>
+    <Order ID>ES-2014-4675868</Order ID>
+    <Order Date>30-12-2014</Order Date>
+    <Ship Date>02-01-2015</Ship Date>
+    <Ship Mode>First Class</Ship Mode>
+    <Customer ID>HM-14860</Customer ID>
+    <Customer Name>Harry Marie</Customer Name>
+    <Segment>Corporate</Segment>
+    <City>Basel</City>
+    <State>Basel-Stadt</State>
+    <Country>Switzerland</Country>
+    <Postal Code></Postal Code>
+    <Market>EU</Market>
+    <Region>Central</Region>
+    <Product ID>OFF-SU-10001813</Product ID>
+    <Category>Office Supplies</Category>
+    <Sub-Category>Supplies</Sub-Category>
+    <Product Name>Kleencut Ruler, Easy Grip</Product Name>
+    <Sales>30.36</Sales>
+    <Quantity>2</Quantity>
+    <Discount>0</Discount>
+    <Profit>0.6</Profit>
+    <Shipping Cost>3.98</Shipping Cost>
+    <Order Priority>Critical</Order Priority>
+  </row>
+  <row>
+    <RowID>88</RowID>
+    <Order ID>ES-2014-4675868</Order ID>
+    <Order Date>30-12-2014</Order Date>
+    <Ship Date>02-01-2015</Ship Date>
+    <Ship Mode>First Class</Ship Mode>
+    <Customer ID>HM-14860</Customer ID>
+    <Customer Name>Harry Marie</Customer Name>
+    <Segment>Corporate</Segment>
+    <City>Basel</City>
+    <State>Basel-Stadt</State>
+    <Country>Switzerland</Country>
+    <Postal Code></Postal Code>
+    <Market>EU</Market>
+    <Region>Central</Region>
+    <Product ID>TEC-CO-10001008</Product ID>
+    <Category>Technology</Category>
+    <Sub-Category>Copiers</Sub-Category>
+    <Product Name>Canon Fax and Copier, Laser</Product Name>
+    <Sales>1913.4</Sales>
+    <Quantity>10</Quantity>
+    <Discount>0</Discount>
+    <Profit>899.1</Profit>
+    <Shipping Cost>236.49</Shipping Cost>
+    <Order Priority>Critical</Order Priority>
+  </row>
+  <row>
+    <RowID>89</RowID>
+    <Order ID>ES-2014-4675868</Order ID>
+    <Order Date>30-12-2014</Order Date>
+    <Ship Date>02-01-2015</Ship Date>
+    <Ship Mode>First Class</Ship Mode>
+    <Customer ID>HM-14860</Customer ID>
+    <Customer Name>Harry Marie</Customer Name>
+    <Segment>Corporate</Segment>
+    <City>Basel</City>
+    <State>Basel-Stadt</State>
+    <Country>Switzerland</Country>
+    <Postal Code></Postal Code>
+    <Market>EU</Market>
+    <Region>Central</Region>
+    <Product ID>OFF-AR-10000475</Product ID>
+    <Category>Office Supplies</Category>
+    <Sub-Category>Art</Sub-Category>
+    <Product Name>Sanford Canvas, Blue</Product Name>
+    <Sales>151.56</Sales>
+    <Quantity>3</Quantity>
+    <Discount>0</Discount>
+    <Profit>43.92</Profit>
+    <Shipping Cost>57.25</Shipping Cost>
+    <Order Priority>Critical</Order Priority>
+  </row>
+  <row>
+    <RowID>90</RowID>
+    <Order ID>ID-2014-69303</Order ID>
+    <Order Date>30-12-2014</Order Date>
+    <Ship Date>03-01-2015</Ship Date>
+    <Ship Mode>Standard Class</Ship Mode>
+    <Customer ID>GM-14680</Customer ID>
+    <Customer Name>Greg Matthias</Customer Name>
+    <Segment>Consumer</Segment>
+    <City>Caloocan</City>
+    <State>National Capital</State>
+    <Country>Philippines</Country>
+    <Postal Code></Postal Code>
+    <Market>APAC</Market>
+    <Region>Southeast Asia</Region>
+    <Product ID>OFF-PA-10003731</Product ID>
+    <Category>Office Supplies</Category>
+    <Sub-Category>Paper</Sub-Category>
+    <Product Name>Enermax Note Cards, Premium</Product Name>
+    <Sales>49.3515</Sales>
+    <Quantity>3</Quantity>
+    <Discount>0.45</Discount>
+    <Profit>-4.5585</Profit>
+    <Shipping Cost>9.23</Shipping Cost>
+    <Order Priority>High</Order Priority>
+  </row>
+  <row>
+    <RowID>91</RowID>
+    <Order ID>ID-2014-69303</Order ID>
+    <Order Date>30-12-2014</Order Date>
+    <Ship Date>03-01-2015</Ship Date>
+    <Ship Mode>Standard Class</Ship Mode>
+    <Customer ID>GM-14680</Customer ID>
+    <Customer Name>Greg Matthias</Customer Name>
+    <Segment>Consumer</Segment>
+    <City>Caloocan</City>
+    <State>National Capital</State>
+    <Country>Philippines</Country>
+    <Postal Code></Postal Code>
+    <Market>APAC</Market>
+    <Region>Southeast Asia</Region>
+    <Product ID>FUR-CH-10003692</Product ID>
+    <Category>Furniture</Category>
+    <Sub-Category>Chairs</Sub-Category>
+    <Product Name>SAFCO Swivel Stool, Set of Two</Product Name>
+    <Sales>255.285</Sales>
+    <Quantity>2</Quantity>
+    <Discount>0.25</Discount>
+    <Profit>-47.655</Profit>
+    <Shipping Cost>31.33</Shipping Cost>
+    <Order Priority>High</Order Priority>
+  </row>
+  <row>
+    <RowID>92</RowID>
+    <Order ID>ID-2014-69303</Order ID>
+    <Order Date>30-12-2014</Order Date>
+    <Ship Date>03-01-2015</Ship Date>
+    <Ship Mode>Standard Class</Ship Mode>
+    <Customer ID>GM-14680</Customer ID>
+    <Customer Name>Greg Matthias</Customer Name>
+    <Segment>Consumer</Segment>
+    <City>Caloocan</City>
+    <State>National Capital</State>
+    <Country>Philippines</Country>
+    <Postal Code></Postal Code>
+    <Market>APAC</Market>
+    <Region>Southeast Asia</Region>
+    <Product ID>TEC-CO-10001726</Product ID>
+    <Category>Technology</Category>
+    <Sub-Category>Copiers</Sub-Category>
+    <Product Name>HP Fax and Copier, High-Speed</Product Name>
+    <Sales>333.6255</Sales>
+    <Quantity>3</Quantity>
+    <Discount>0.35</Discount>
+    <Profit>-56.5245</Profit>
+    <Shipping Cost>32.97</Shipping Cost>
+    <Order Priority>High</Order Priority>
+  </row>
+  <row>
+    <RowID>93</RowID>
+    <Order ID>IN-2014-64760</Order ID>
+    <Order Date>30-12-2014</Order Date>
+    <Ship Date>04-01-2015</Ship Date>
+    <Ship Mode>Standard Class</Ship Mode>
+    <Customer ID>DK-13225</Customer ID>
+    <Customer Name>Dean Katz</Customer Name>
+    <Segment>Corporate</Segment>
+    <City>Caloundra</City>
+    <State>Queensland</State>
+    <Country>Australia</Country>
+    <Postal Code></Postal Code>
+    <Market>APAC</Market>
+    <Region>Oceania</Region>
+    <Product ID>OFF-LA-10003338</Product ID>
+    <Category>Office Supplies</Category>
+    <Sub-Category>Labels</Sub-Category>
+    <Product Name>Harbour Creations Removable Labels, 5000 Label Set</Product Name>
+    <Sales>27.945</Sales>
+    <Quantity>3</Quantity>
+    <Discount>0.1</Discount>
+    <Profit>6.165</Profit>
+    <Shipping Cost>2.48</Shipping Cost>
+    <Order Priority>Medium</Order Priority>
+  </row>
+  <row>
+    <RowID>94</RowID>
+    <Order ID>ID-2014-40281</Order ID>
+    <Order Date>30-12-2014</Order Date>
+    <Ship Date>04-01-2015</Ship Date>
+    <Ship Mode>Standard Class</Ship Mode>
+    <Customer ID>RA-19945</Customer ID>
+    <Customer Name>Ryan Akin</Customer Name>
+    <Segment>Consumer</Segment>
+    <City>Bangkok</City>
+    <State>Bangkok</State>
+    <Country>Thailand</Country>
+    <Postal Code></Postal Code>
+    <Market>APAC</Market>
+    <Region>Southeast Asia</Region>
+    <Product ID>FUR-BO-10001541</Product ID>
+    <Category>Furniture</Category>
+    <Sub-Category>Bookcases</Sub-Category>
+    <Product Name>Bush Stackable Bookrack, Traditional</Product Name>
+    <Sales>232.4133</Sales>
+    <Quantity>3</Quantity>
+    <Discount>0.37</Discount>
+    <Profit>-107.0667</Profit>
+    <Shipping Cost>16.9</Shipping Cost>
+    <Order Priority>Medium</Order Priority>
+  </row>
+  <row>
+    <RowID>95</RowID>
+    <Order ID>ID-2014-40281</Order ID>
+    <Order Date>30-12-2014</Order Date>
+    <Ship Date>04-01-2015</Ship Date>
+    <Ship Mode>Standard Class</Ship Mode>
+    <Customer ID>RA-19945</Customer ID>
+    <Customer Name>Ryan Akin</Customer Name>
+    <Segment>Consumer</Segment>
+    <City>Bangkok</City>
+    <State>Bangkok</State>
+    <Country>Thailand</Country>
+    <Postal Code></Postal Code>
+    <Market>APAC</Market>
+    <Region>Southeast Asia</Region>
+    <Product ID>OFF-BI-10001399</Product ID>
+    <Category>Office Supplies</Category>
+    <Sub-Category>Binders</Sub-Category>
+    <Product Name>Avery Binder Covers, Clear</Product Name>
+    <Sales>43.6995</Sales>
+    <Quantity>5</Quantity>
+    <Discount>0.17</Discount>
+    <Profit>-0.1005</Profit>
+    <Shipping Cost>2.56</Shipping Cost>
+    <Order Priority>Medium</Order Priority>
+  </row>
+  <row>
+    <RowID>96</RowID>
+    <Order ID>ID-2014-40281</Order ID>
+    <Order Date>30-12-2014</Order Date>
+    <Ship Date>04-01-2015</Ship Date>
+    <Ship Mode>Standard Class</Ship Mode>
+    <Customer ID>RA-19945</Customer ID>
+    <Customer Name>Ryan Akin</Customer Name>
+    <Segment>Consumer</Segment>
+    <City>Bangkok</City>
+    <State>Bangkok</State>
+    <Country>Thailand</Country>
+    <Postal Code></Postal Code>
+    <Market>APAC</Market>
+    <Region>Southeast Asia</Region>
+    <Product ID>FUR-FU-10001477</Product ID>
+    <Category>Furniture</Category>
+    <Sub-Category>Furnishings</Sub-Category>
+    <Product Name>Rubbermaid Stacking Tray, Black</Product Name>
+    <Sales>18.396</Sales>
+    <Quantity>1</Quantity>
+    <Discount>0.27</Discount>
+    <Profit>-1.284</Profit>
+    <Shipping Cost>0.66</Shipping Cost>
+    <Order Priority>Medium</Order Priority>
+  </row>
+  <row>
+    <RowID>97</RowID>
+    <Order ID>IN-2014-56591</Order ID>
+    <Order Date>30-12-2014</Order Date>
+    <Ship Date>05-01-2015</Ship Date>
+    <Ship Mode>Standard Class</Ship Mode>
+    <Customer ID>DK-12985</Customer ID>
+    <Customer Name>Darren Koutras</Customer Name>
+    <Segment>Consumer</Segment>
+    <City>Manila</City>
+    <State>National Capital</State>
+    <Country>Philippines</Country>
+    <Postal Code></Postal Code>
+    <Market>APAC</Market>
+    <Region>Southeast Asia</Region>
+    <Product ID>FUR-BO-10000195</Product ID>
+    <Category>Furniture</Category>
+    <Sub-Category>Bookcases</Sub-Category>
+    <Product Name>Dania Stackable Bookrack, Pine</Product Name>
+    <Sales>484.029</Sales>
+    <Quantity>6</Quantity>
+    <Discount>0.35</Discount>
+    <Profit>29.709</Profit>
+    <Shipping Cost>54.96</Shipping Cost>
+    <Order Priority>Low</Order Priority>
+  </row>
+  <row>
+    <RowID>98</RowID>
+    <Order ID>IN-2014-59762</Order ID>
+    <Order Date>30-12-2014</Order Date>
+    <Ship Date>04-01-2015</Ship Date>
+    <Ship Mode>Standard Class</Ship Mode>
+    <Customer ID>JK-15625</Customer ID>
+    <Customer Name>Jim Karlsson</Customer Name>
+    <Segment>Consumer</Segment>
+    <City>Brisbane</City>
+    <State>Queensland</State>
+    <Country>Australia</Country>
+    <Postal Code></Postal Code>
+    <Market>APAC</Market>
+    <Region>Oceania</Region>
+    <Product ID>OFF-ST-10001342</Product ID>
+    <Category>Office Supplies</Category>
+    <Sub-Category>Storage</Sub-Category>
+    <Product Name>Fellowes Trays, Blue</Product Name>
+    <Sales>154.953</Sales>
+    <Quantity>3</Quantity>
+    <Discount>0.1</Discount>
+    <Profit>58.473</Profit>
+    <Shipping Cost>14.51</Shipping Cost>
+    <Order Priority>Medium</Order Priority>
+  </row>
+  <row>
+    <RowID>99</RowID>
+    <Order ID>IN-2014-49206</Order ID>
+    <Order Date>30-12-2014</Order Date>
+    <Ship Date>01-01-2015</Ship Date>
+    <Ship Mode>Second Class</Ship Mode>
+    <Customer ID>TR-21325</Customer ID>
+    <Customer Name>Toby Ritter</Customer Name>
+    <Segment>Consumer</Segment>
+    <City>Bandung</City>
+    <State>Jawa Barat</State>
+    <Country>Indonesia</Country>
+    <Postal Code></Postal Code>
+    <Market>APAC</Market>
+    <Region>Southeast Asia</Region>
+    <Product ID>OFF-ST-10003907</Product ID>
+    <Category>Office Supplies</Category>
+    <Sub-Category>Storage</Sub-Category>
+    <Product Name>Rogers Shelving, Wire Frame</Product Name>
+    <Sales>457.164</Sales>
+    <Quantity>9</Quantity>
+    <Discount>0.17</Discount>
+    <Profit>65.934</Profit>
+    <Shipping Cost>101.88</Shipping Cost>
+    <Order Priority>High</Order Priority>
+  </row>
+  <row>
+    <RowID>100</RowID>
+    <Order ID>ID-2014-52902</Order ID>
+    <Order Date>30-12-2014</Order Date>
+    <Ship Date>01-01-2015</Ship Date>
+    <Ship Mode>First Class</Ship Mode>
+    <Customer ID>JW-16075</Customer ID>
+    <Customer Name>Julia West</Customer Name>
+    <Segment>Consumer</Segment>
+    <City>Ho Chi Minh City</City>
+    <State>Ho Chí Minh City</State>
+    <Country>Vietnam</Country>
+    <Postal Code></Postal Code>
+    <Market>APAC</Market>
+    <Region>Southeast Asia</Region>
+    <Product ID>FUR-BO-10001580</Product ID>
+    <Category>Furniture</Category>
+    <Sub-Category>Bookcases</Sub-Category>
+    <Product Name>Dania Stackable Bookrack, Pine</Product Name>
+    <Sales>387.261</Sales>
+    <Quantity>5</Quantity>
+    <Discount>0.37</Discount>
+    <Profit>-123.039</Profit>
+    <Shipping Cost>68.73</Shipping Cost>
+    <Order Priority>High</Order Priority>
+  </row>
+</root>
